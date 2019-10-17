@@ -1,0 +1,589 @@
+,00-04,05-09,10-14,15-19,20-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,65-69,70-74,75-79,80-84,85+,Region main,Specific_region,Total,Unknown,Unnamed: 23,year
+0,5.0,2.0,3.0,2.0,1.0,0.0,2.0,1.0,2.0,1.0,3.0,5.0,7.0,0.0,4.0,2.0,3.0,2.0,Barwon South West,GLENELG,45.0,0.0,0.0, 2017Total
+1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,Barwon South West,GLENELG,3.0,0.0,0.0, 2016YTD
+2,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,2.0,0.0,1.0,0.0,0.0,0.0,Barwon South West,GLENELG,7.0,0.0,0.0, 2017YTD
+3,3.0,6.0,3.0,3.0,6.0,2.0,2.0,7.0,3.0,4.0,3.0,4.0,2.0,5.0,5.0,3.0,5.0,4.0,Barwon South West,GLENELG,70.0,0.0,0.0, 2019YTD
+4,0.0,3.0,0.0,2.0,1.0,0.0,0.0,4.0,2.0,0.0,3.0,3.0,3.0,2.0,2.0,4.0,1.0,8.0,Barwon South West,GLENELG,38.0,0.0,0.0, 2016Total
+5,1.0,0.0,0.0,2.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,Barwon South West,GLENELG,8.0,0.0,0.0, 2018YTD
+6,2.0,1.0,1.0,2.0,1.0,0.0,2.0,1.0,0.0,0.0,1.0,0.0,3.0,1.0,0.0,1.0,1.0,0.0,Barwon South West,GLENELG,17.0,0.0,0.0, 2018Total
+7,122.0,107.0,53.0,41.0,38.0,46.0,55.0,54.0,53.0,47.0,46.0,54.0,53.0,63.0,61.0,58.0,65.0,106.0,Eastern MetropolitanNorthern and Western MetropolitanSouthern Metropolitan,GREATER DANDENONG,1122.0,0.0,0.0, 2017Total
+8,11.0,3.0,2.0,2.0,2.0,3.0,5.0,5.0,1.0,1.0,3.0,3.0,4.0,3.0,1.0,4.0,1.0,1.0,Eastern MetropolitanNorthern and Western MetropolitanSouthern Metropolitan,GREATER DANDENONG,55.0,0.0,0.0, 2016YTD
+9,25.0,11.0,9.0,5.0,3.0,10.0,8.0,9.0,7.0,10.0,8.0,10.0,13.0,11.0,19.0,18.0,16.0,26.0,Eastern MetropolitanNorthern and Western MetropolitanSouthern Metropolitan,GREATER DANDENONG,218.0,0.0,0.0, 2017YTD
+10,123.0,108.0,53.0,42.0,41.0,60.0,80.0,73.0,42.0,31.0,38.0,46.0,38.0,26.0,37.0,24.0,35.0,39.0,Eastern MetropolitanNorthern and Western MetropolitanSouthern Metropolitan,GREATER DANDENONG,936.0,0.0,0.0, 2019YTD
+11,33.0,14.0,5.0,9.0,8.0,12.0,22.0,15.0,8.0,20.0,13.0,9.0,11.0,19.0,22.0,21.0,21.0,40.0,Eastern MetropolitanNorthern and Western MetropolitanSouthern Metropolitan,GREATER DANDENONG,302.0,0.0,0.0, 2016Total
+12,11.0,5.0,1.0,1.0,3.0,3.0,6.0,5.0,6.0,2.0,4.0,5.0,2.0,4.0,3.0,3.0,3.0,3.0,Eastern MetropolitanNorthern and Western MetropolitanSouthern Metropolitan,GREATER DANDENONG,70.0,0.0,0.0, 2018YTD
+13,28.0,34.0,4.0,7.0,11.0,16.0,22.0,24.0,16.0,10.0,13.0,12.0,12.0,12.0,9.0,6.0,14.0,10.0,Eastern MetropolitanNorthern and Western MetropolitanSouthern Metropolitan,GREATER DANDENONG,260.0,0.0,0.0, 2018Total
+14,17.0,17.0,12.0,17.0,12.0,11.0,15.0,13.0,12.0,17.0,15.0,15.0,15.0,14.0,11.0,11.0,7.0,6.0,Grampians,MOORABOOL,237.0,0.0,0.0, 2017Total
+15,5.0,1.0,0.0,1.0,0.0,1.0,1.0,2.0,1.0,2.0,1.0,1.0,0.0,2.0,1.0,0.0,0.0,0.0,Grampians,MOORABOOL,19.0,0.0,0.0, 2016YTD
+16,1.0,0.0,2.0,2.0,2.0,0.0,3.0,2.0,2.0,2.0,4.0,0.0,4.0,3.0,2.0,0.0,0.0,1.0,Grampians,MOORABOOL,30.0,0.0,0.0, 2017YTD
+17,15.0,19.0,15.0,13.0,7.0,13.0,14.0,12.0,12.0,8.0,17.0,9.0,12.0,8.0,11.0,9.0,4.0,7.0,Grampians,MOORABOOL,205.0,0.0,0.0, 2019YTD
+18,9.0,4.0,0.0,5.0,1.0,1.0,1.0,4.0,1.0,7.0,5.0,4.0,1.0,4.0,3.0,2.0,1.0,9.0,Grampians,MOORABOOL,62.0,0.0,0.0, 2016Total
+19,1.0,2.0,0.0,2.0,0.0,2.0,2.0,3.0,3.0,0.0,2.0,3.0,0.0,1.0,2.0,1.0,0.0,0.0,Grampians,MOORABOOL,24.0,0.0,0.0, 2018YTD
+20,5.0,9.0,0.0,3.0,2.0,4.0,8.0,9.0,7.0,3.0,4.0,4.0,3.0,6.0,2.0,4.0,0.0,1.0,Grampians,MOORABOOL,74.0,0.0,0.0, 2018Total
+21,1.0,1.0,1.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,3.0,3.0,2.0,0.0,3.0,8.0,GrampiansSouthern Metropolitan,NORTHERN GRAMPIANS,27.0,0.0,0.0, 2017Total
+22,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,GrampiansSouthern Metropolitan,NORTHERN GRAMPIANS,1.0,0.0,0.0, 2016YTD
+23,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,GrampiansSouthern Metropolitan,NORTHERN GRAMPIANS,1.0,0.0,0.0, 2017YTD
+24,6.0,1.0,0.0,1.0,0.0,1.0,3.0,0.0,1.0,1.0,0.0,2.0,3.0,1.0,1.0,2.0,4.0,0.0,GrampiansSouthern Metropolitan,NORTHERN GRAMPIANS,27.0,0.0,0.0, 2019YTD
+25,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,GrampiansSouthern Metropolitan,NORTHERN GRAMPIANS,4.0,0.0,0.0, 2016Total
+26,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,GrampiansSouthern Metropolitan,NORTHERN GRAMPIANS,0.0,0.0,0.0, 2018YTD
+27,0.0,0.0,0.0,0.0,1.0,2.0,1.0,0.0,2.0,4.0,0.0,2.0,1.0,2.0,0.0,2.0,0.0,3.0,GrampiansSouthern Metropolitan,NORTHERN GRAMPIANS,20.0,0.0,0.0, 2018Total
+28,77.0,68.0,42.0,56.0,46.0,41.0,38.0,66.0,55.0,51.0,52.0,72.0,48.0,46.0,50.0,59.0,51.0,63.0,GrampiansNorthern and Western MetropolitanSouthern Metropolitan,BRIMBANK,981.0,0.0,0.0, 2017Total
+29,7.0,2.0,1.0,0.0,2.0,5.0,6.0,3.0,5.0,4.0,4.0,2.0,5.0,1.0,5.0,2.0,0.0,3.0,GrampiansNorthern and Western MetropolitanSouthern Metropolitan,BRIMBANK,57.0,0.0,0.0, 2016YTD
+30,13.0,11.0,7.0,2.0,9.0,9.0,6.0,10.0,8.0,8.0,11.0,11.0,9.0,8.0,10.0,11.0,8.0,7.0,GrampiansNorthern and Western MetropolitanSouthern Metropolitan,BRIMBANK,158.0,0.0,0.0, 2017YTD
+31,150.0,146.0,80.0,61.0,67.0,95.0,99.0,83.0,56.0,58.0,47.0,63.0,53.0,45.0,41.0,34.0,33.0,43.0,GrampiansNorthern and Western MetropolitanSouthern Metropolitan,BRIMBANK,1254.0,0.0,0.0, 2019YTD
+32,19.0,8.0,5.0,11.0,7.0,16.0,16.0,17.0,17.0,12.0,17.0,17.0,20.0,14.0,16.0,16.0,11.0,9.0,GrampiansNorthern and Western MetropolitanSouthern Metropolitan,BRIMBANK,248.0,0.0,0.0, 2016Total
+33,7.0,6.0,2.0,1.0,1.0,5.0,5.0,3.0,1.0,4.0,4.0,1.0,3.0,3.0,2.0,5.0,1.0,3.0,GrampiansNorthern and Western MetropolitanSouthern Metropolitan,BRIMBANK,57.0,0.0,0.0, 2018YTD
+34,37.0,38.0,14.0,11.0,13.0,25.0,37.0,28.0,10.0,23.0,22.0,18.0,25.0,16.0,10.0,21.0,8.0,10.0,GrampiansNorthern and Western MetropolitanSouthern Metropolitan,BRIMBANK,366.0,0.0,0.0, 2018Total
+35,10.0,7.0,5.0,4.0,5.0,2.0,5.0,8.0,10.0,5.0,2.0,14.0,9.0,11.0,9.0,5.0,6.0,9.0,Barwon South WestHume,MANSFIELD,126.0,0.0,0.0, 2017Total
+36,1.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Barwon South WestHume,MANSFIELD,4.0,0.0,0.0, 2016YTD
+37,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,Barwon South WestHume,MANSFIELD,6.0,0.0,0.0, 2017YTD
+38,6.0,6.0,1.0,7.0,3.0,1.0,5.0,3.0,4.0,5.0,2.0,2.0,3.0,4.0,3.0,5.0,3.0,0.0,Barwon South WestHume,MANSFIELD,63.0,0.0,0.0, 2019YTD
+39,4.0,2.0,4.0,0.0,1.0,1.0,4.0,2.0,1.0,0.0,1.0,2.0,1.0,2.0,1.0,1.0,0.0,0.0,Barwon South WestHume,MANSFIELD,27.0,0.0,0.0, 2016Total
+40,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,2.0,0.0,0.0,0.0,0.0,Barwon South WestHume,MANSFIELD,6.0,0.0,0.0, 2018YTD
+41,2.0,1.0,0.0,0.0,0.0,2.0,2.0,1.0,0.0,1.0,3.0,2.0,1.0,3.0,0.0,0.0,0.0,0.0,Barwon South WestHume,MANSFIELD,18.0,0.0,0.0, 2018Total
+42,1.0,0.0,1.0,0.0,1.0,1.0,1.0,0.0,1.0,3.0,0.0,2.0,4.0,2.0,1.0,1.0,1.0,1.0,Barwon South WestLoddon Mallee,BULOKE,21.0,0.0,0.0, 2017Total
+43,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Barwon South WestLoddon Mallee,BULOKE,0.0,0.0,0.0, 2016YTD
+44,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Barwon South WestLoddon Mallee,BULOKE,1.0,0.0,0.0, 2017YTD
+45,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,3.0,1.0,0.0,0.0,0.0,0.0,2.0,Barwon South WestLoddon Mallee,BULOKE,8.0,0.0,0.0, 2019YTD
+46,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,Barwon South WestLoddon Mallee,BULOKE,2.0,0.0,0.0, 2016Total
+47,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,Barwon South WestLoddon Mallee,BULOKE,1.0,0.0,0.0, 2018YTD
+48,0.0,0.0,0.0,0.0,2.0,1.0,0.0,2.0,0.0,2.0,2.0,0.0,1.0,2.0,0.0,1.0,0.0,0.0,Barwon South WestLoddon Mallee,BULOKE,13.0,0.0,0.0, 2018Total
+49,2.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,2.0,0.0,4.0,2.0,2.0,2.0,1.0,7.0,Grampians,YARRIAMBIACK,25.0,0.0,0.0, 2017Total
+50,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Grampians,YARRIAMBIACK,1.0,0.0,0.0, 2016YTD
+51,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,3.0,0.0,0.0,0.0,1.0,4.0,Grampians,YARRIAMBIACK,10.0,0.0,0.0, 2017YTD
+52,0.0,0.0,1.0,0.0,1.0,2.0,1.0,1.0,0.0,0.0,2.0,2.0,1.0,2.0,0.0,1.0,0.0,1.0,Grampians,YARRIAMBIACK,15.0,0.0,0.0, 2019YTD
+53,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,4.0,3.0,Grampians,YARRIAMBIACK,11.0,0.0,0.0, 2016Total
+54,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Grampians,YARRIAMBIACK,2.0,0.0,0.0, 2018YTD
+55,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,Grampians,YARRIAMBIACK,4.0,0.0,0.0, 2018Total
+56,9.0,13.0,9.0,6.0,4.0,1.0,9.0,12.0,4.0,16.0,5.0,10.0,17.0,6.0,5.0,3.0,4.0,0.0,Barwon South WestGrampiansNorthern and Western Metropolitan,GOLDEN PLAINS,133.0,0.0,0.0, 2017Total
+57,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,Barwon South WestGrampiansNorthern and Western Metropolitan,GOLDEN PLAINS,2.0,0.0,0.0, 2016YTD
+58,0.0,0.0,0.0,0.0,0.0,0.0,3.0,1.0,0.0,5.0,0.0,2.0,3.0,0.0,0.0,0.0,0.0,0.0,Barwon South WestGrampiansNorthern and Western Metropolitan,GOLDEN PLAINS,14.0,0.0,0.0, 2017YTD
+59,15.0,12.0,5.0,3.0,7.0,8.0,9.0,8.0,7.0,5.0,6.0,8.0,3.0,9.0,4.0,1.0,2.0,4.0,Barwon South WestGrampiansNorthern and Western Metropolitan,GOLDEN PLAINS,116.0,0.0,0.0, 2019YTD
+60,3.0,0.0,1.0,3.0,6.0,0.0,4.0,1.0,3.0,2.0,0.0,2.0,2.0,0.0,3.0,2.0,2.0,1.0,Barwon South WestGrampiansNorthern and Western Metropolitan,GOLDEN PLAINS,35.0,0.0,0.0, 2016Total
+61,0.0,2.0,2.0,0.0,0.0,1.0,3.0,0.0,0.0,0.0,0.0,2.0,0.0,1.0,1.0,0.0,0.0,0.0,Barwon South WestGrampiansNorthern and Western Metropolitan,GOLDEN PLAINS,12.0,0.0,0.0, 2018YTD
+62,4.0,6.0,3.0,2.0,1.0,4.0,8.0,3.0,1.0,3.0,4.0,6.0,2.0,1.0,4.0,1.0,0.0,0.0,Barwon South WestGrampiansNorthern and Western Metropolitan,GOLDEN PLAINS,53.0,0.0,0.0, 2018Total
+63,62.0,73.0,51.0,70.0,36.0,47.0,36.0,75.0,58.0,57.0,63.0,67.0,59.0,52.0,39.0,49.0,47.0,58.0,Eastern MetropolitanNorthern and Western MetropolitanSouthern Metropolitan,MOONEE VALLEY,999.0,0.0,0.0, 2017Total
+64,4.0,2.0,0.0,1.0,7.0,2.0,1.0,6.0,8.0,5.0,4.0,4.0,2.0,6.0,2.0,1.0,5.0,1.0,Eastern MetropolitanNorthern and Western MetropolitanSouthern Metropolitan,MOONEE VALLEY,61.0,0.0,0.0, 2016YTD
+65,8.0,5.0,2.0,7.0,6.0,9.0,5.0,10.0,12.0,8.0,11.0,6.0,17.0,4.0,9.0,7.0,15.0,12.0,Eastern MetropolitanNorthern and Western MetropolitanSouthern Metropolitan,MOONEE VALLEY,153.0,0.0,0.0, 2017YTD
+66,93.0,90.0,50.0,41.0,63.0,72.0,76.0,76.0,41.0,39.0,53.0,27.0,28.0,35.0,25.0,29.0,34.0,44.0,Eastern MetropolitanNorthern and Western MetropolitanSouthern Metropolitan,MOONEE VALLEY,916.0,0.0,0.0, 2019YTD
+67,8.0,10.0,9.0,10.0,17.0,11.0,16.0,14.0,20.0,13.0,12.0,12.0,16.0,15.0,12.0,13.0,16.0,21.0,Eastern MetropolitanNorthern and Western MetropolitanSouthern Metropolitan,MOONEE VALLEY,246.0,1.0,0.0, 2016Total
+68,5.0,5.0,3.0,4.0,3.0,0.0,3.0,4.0,11.0,7.0,8.0,6.0,4.0,5.0,1.0,4.0,3.0,0.0,Eastern MetropolitanNorthern and Western MetropolitanSouthern Metropolitan,MOONEE VALLEY,76.0,0.0,0.0, 2018YTD
+69,25.0,27.0,7.0,10.0,14.0,5.0,23.0,23.0,25.0,21.0,16.0,14.0,15.0,10.0,8.0,14.0,7.0,7.0,Eastern MetropolitanNorthern and Western MetropolitanSouthern Metropolitan,MOONEE VALLEY,271.0,0.0,0.0, 2018Total
+70,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,2.0,1.0,1.0,0.0,0.0,1.0,Barwon South WestNorthern and Western Metropolitan,QUEENSCLIFFE,9.0,0.0,0.0, 2017Total
+71,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Barwon South WestNorthern and Western Metropolitan,QUEENSCLIFFE,0.0,0.0,0.0, 2016YTD
+72,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,Barwon South WestNorthern and Western Metropolitan,QUEENSCLIFFE,3.0,0.0,0.0, 2017YTD
+73,0.0,1.0,0.0,2.0,2.0,1.0,1.0,1.0,2.0,0.0,1.0,0.0,1.0,1.0,1.0,0.0,1.0,2.0,Barwon South WestNorthern and Western Metropolitan,QUEENSCLIFFE,17.0,0.0,0.0, 2019YTD
+74,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Barwon South WestNorthern and Western Metropolitan,QUEENSCLIFFE,0.0,0.0,0.0, 2016Total
+75,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Barwon South WestNorthern and Western Metropolitan,QUEENSCLIFFE,0.0,0.0,0.0, 2018YTD
+76,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,Barwon South WestNorthern and Western Metropolitan,QUEENSCLIFFE,2.0,0.0,0.0, 2018Total
+77,90.0,111.0,48.0,46.0,64.0,60.0,92.0,97.0,84.0,83.0,58.0,75.0,49.0,40.0,46.0,46.0,62.0,109.0,Eastern MetropolitanLoddon MalleeNorthern and Western MetropolitanSouthern Metropolitan,MORELAND,1260.0,0.0,0.0, 2017Total
+78,8.0,2.0,0.0,1.0,6.0,6.0,12.0,7.0,3.0,3.0,3.0,4.0,2.0,5.0,3.0,4.0,2.0,8.0,Eastern MetropolitanLoddon MalleeNorthern and Western MetropolitanSouthern Metropolitan,MORELAND,79.0,0.0,0.0, 2016YTD
+79,8.0,12.0,6.0,3.0,10.0,10.0,22.0,18.0,15.0,13.0,8.0,14.0,1.0,8.0,8.0,9.0,13.0,20.0,Eastern MetropolitanLoddon MalleeNorthern and Western MetropolitanSouthern Metropolitan,MORELAND,198.0,0.0,0.0, 2017YTD
+80,110.0,93.0,55.0,37.0,72.0,104.0,108.0,89.0,66.0,56.0,47.0,37.0,43.0,24.0,26.0,40.0,42.0,57.0,Eastern MetropolitanLoddon MalleeNorthern and Western MetropolitanSouthern Metropolitan,MORELAND,1107.0,1.0,0.0, 2019YTD
+81,19.0,11.0,14.0,15.0,25.0,27.0,42.0,26.0,16.0,19.0,15.0,17.0,13.0,15.0,19.0,16.0,24.0,49.0,Eastern MetropolitanLoddon MalleeNorthern and Western MetropolitanSouthern Metropolitan,MORELAND,382.0,0.0,0.0, 2016Total
+82,3.0,2.0,0.0,3.0,2.0,1.0,5.0,5.0,9.0,10.0,0.0,4.0,4.0,1.0,3.0,0.0,2.0,2.0,Eastern MetropolitanLoddon MalleeNorthern and Western MetropolitanSouthern Metropolitan,MORELAND,56.0,0.0,0.0, 2018YTD
+83,17.0,16.0,7.0,8.0,16.0,23.0,25.0,28.0,31.0,28.0,9.0,12.0,10.0,8.0,15.0,14.0,16.0,11.0,Eastern MetropolitanLoddon MalleeNorthern and Western MetropolitanSouthern Metropolitan,MORELAND,294.0,0.0,0.0, 2018Total
+84,22.0,23.0,16.0,19.0,15.0,11.0,9.0,12.0,15.0,17.0,11.0,14.0,8.0,15.0,10.0,11.0,12.0,10.0,GippslandHumeNorthern and Western Metropolitan,GREATER SHEPPARTON,250.0,0.0,0.0, 2017Total
+85,1.0,2.0,0.0,1.0,2.0,2.0,0.0,1.0,1.0,0.0,1.0,1.0,5.0,2.0,0.0,0.0,1.0,0.0,GippslandHumeNorthern and Western Metropolitan,GREATER SHEPPARTON,20.0,0.0,0.0, 2016YTD
+86,3.0,1.0,3.0,2.0,1.0,1.0,1.0,0.0,3.0,1.0,0.0,1.0,4.0,0.0,1.0,1.0,2.0,3.0,GippslandHumeNorthern and Western Metropolitan,GREATER SHEPPARTON,28.0,0.0,0.0, 2017YTD
+87,54.0,42.0,20.0,23.0,17.0,22.0,16.0,18.0,11.0,18.0,12.0,20.0,17.0,7.0,10.0,14.0,10.0,15.0,GippslandHumeNorthern and Western Metropolitan,GREATER SHEPPARTON,346.0,0.0,0.0, 2019YTD
+88,6.0,4.0,4.0,2.0,3.0,4.0,5.0,3.0,3.0,1.0,3.0,2.0,7.0,5.0,0.0,2.0,3.0,3.0,GippslandHumeNorthern and Western Metropolitan,GREATER SHEPPARTON,60.0,0.0,0.0, 2016Total
+89,1.0,0.0,0.0,1.0,1.0,2.0,0.0,1.0,1.0,3.0,0.0,0.0,4.0,0.0,4.0,0.0,0.0,0.0,GippslandHumeNorthern and Western Metropolitan,GREATER SHEPPARTON,18.0,0.0,0.0, 2018YTD
+90,16.0,22.0,3.0,3.0,3.0,8.0,4.0,6.0,8.0,6.0,2.0,4.0,10.0,4.0,7.0,0.0,0.0,0.0,GippslandHumeNorthern and Western Metropolitan,GREATER SHEPPARTON,106.0,0.0,0.0, 2018Total
+91,117.0,146.0,50.0,76.0,49.0,41.0,65.0,84.0,91.0,86.0,79.0,74.0,86.0,67.0,47.0,47.0,38.0,80.0,Barwon South WestNorthern and Western MetropolitanSouthern Metropolitan,BANYULE,1324.0,1.0,0.0, 2017Total
+92,10.0,6.0,5.0,1.0,3.0,5.0,7.0,8.0,8.0,5.0,4.0,2.0,5.0,2.0,5.0,2.0,1.0,2.0,Barwon South WestNorthern and Western MetropolitanSouthern Metropolitan,BANYULE,81.0,0.0,0.0, 2016YTD
+93,16.0,21.0,4.0,18.0,11.0,7.0,18.0,16.0,20.0,13.0,19.0,12.0,13.0,14.0,4.0,5.0,12.0,6.0,Barwon South WestNorthern and Western MetropolitanSouthern Metropolitan,BANYULE,230.0,1.0,0.0, 2017YTD
+94,104.0,112.0,74.0,56.0,48.0,59.0,65.0,69.0,53.0,52.0,49.0,42.0,47.0,36.0,29.0,22.0,15.0,37.0,Barwon South WestNorthern and Western MetropolitanSouthern Metropolitan,BANYULE,969.0,0.0,0.0, 2019YTD
+95,27.0,20.0,28.0,30.0,14.0,17.0,21.0,24.0,21.0,24.0,22.0,22.0,20.0,16.0,18.0,17.0,23.0,59.0,Barwon South WestNorthern and Western MetropolitanSouthern Metropolitan,BANYULE,424.0,1.0,0.0, 2016Total
+96,3.0,13.0,2.0,5.0,3.0,4.0,5.0,4.0,3.0,9.0,6.0,6.0,0.0,6.0,2.0,0.0,0.0,1.0,Barwon South WestNorthern and Western MetropolitanSouthern Metropolitan,BANYULE,72.0,0.0,0.0, 2018YTD
+97,21.0,43.0,11.0,10.0,14.0,9.0,22.0,17.0,17.0,22.0,20.0,17.0,7.0,11.0,8.0,8.0,6.0,10.0,Barwon South WestNorthern and Western MetropolitanSouthern Metropolitan,BANYULE,273.0,0.0,0.0, 2018Total
+98,50.0,64.0,34.0,31.0,31.0,27.0,33.0,34.0,28.0,38.0,35.0,36.0,26.0,32.0,29.0,17.0,12.0,18.0,GippslandSouthern Metropolitan,BAW BAW,575.0,0.0,0.0, 2017Total
+99,3.0,0.0,0.0,0.0,1.0,0.0,1.0,2.0,2.0,0.0,2.0,5.0,0.0,2.0,0.0,1.0,1.0,0.0,GippslandSouthern Metropolitan,BAW BAW,20.0,0.0,0.0, 2016YTD
+100,7.0,3.0,0.0,5.0,3.0,4.0,5.0,7.0,2.0,4.0,5.0,8.0,4.0,2.0,1.0,1.0,4.0,4.0,GippslandSouthern Metropolitan,BAW BAW,69.0,0.0,0.0, 2017YTD
+101,32.0,36.0,18.0,15.0,19.0,19.0,25.0,20.0,17.0,15.0,18.0,28.0,14.0,21.0,17.0,18.0,10.0,13.0,GippslandSouthern Metropolitan,BAW BAW,355.0,0.0,0.0, 2019YTD
+102,7.0,5.0,3.0,5.0,4.0,4.0,4.0,9.0,4.0,10.0,10.0,11.0,12.0,10.0,6.0,7.0,5.0,7.0,GippslandSouthern Metropolitan,BAW BAW,123.0,0.0,0.0, 2016Total
+103,3.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,2.0,0.0,0.0,0.0,0.0,1.0,GippslandSouthern Metropolitan,BAW BAW,13.0,0.0,0.0, 2018YTD
+104,9.0,8.0,1.0,5.0,2.0,5.0,9.0,4.0,5.0,3.0,1.0,3.0,7.0,2.0,3.0,1.0,1.0,1.0,GippslandSouthern Metropolitan,BAW BAW,70.0,0.0,0.0, 2018Total
+105,4.0,2.0,0.0,0.0,2.0,0.0,0.0,0.0,1.0,2.0,2.0,2.0,0.0,3.0,3.0,0.0,4.0,2.0,Hume,TOWONG,27.0,0.0,0.0, 2017Total
+106,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Hume,TOWONG,0.0,0.0,0.0, 2016YTD
+107,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Hume,TOWONG,2.0,0.0,0.0, 2017YTD
+108,6.0,4.0,0.0,1.0,1.0,0.0,2.0,0.0,5.0,1.0,1.0,3.0,3.0,4.0,6.0,2.0,4.0,2.0,Hume,TOWONG,45.0,0.0,0.0, 2019YTD
+109,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,4.0,3.0,1.0,11.0,Hume,TOWONG,22.0,0.0,0.0, 2016Total
+110,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,Hume,TOWONG,3.0,0.0,0.0, 2018YTD
+111,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,3.0,1.0,0.0,1.0,0.0,0.0,Hume,TOWONG,8.0,0.0,0.0, 2018Total
+112,4.0,8.0,4.0,8.0,5.0,7.0,7.0,8.0,7.0,10.0,15.0,17.0,12.0,13.0,13.0,7.0,9.0,11.0,Loddon Mallee,MILDURA,165.0,0.0,0.0, 2017Total
+113,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,3.0,3.0,0.0,3.0,0.0,0.0,Loddon Mallee,MILDURA,12.0,0.0,0.0, 2016YTD
+114,1.0,2.0,0.0,3.0,0.0,1.0,1.0,1.0,0.0,4.0,1.0,4.0,3.0,0.0,0.0,2.0,1.0,1.0,Loddon Mallee,MILDURA,25.0,0.0,0.0, 2017YTD
+115,10.0,0.0,6.0,5.0,8.0,5.0,4.0,4.0,7.0,6.0,6.0,5.0,8.0,5.0,3.0,16.0,8.0,8.0,Loddon Mallee,MILDURA,114.0,0.0,0.0, 2019YTD
+116,0.0,1.0,0.0,3.0,0.0,1.0,1.0,0.0,3.0,1.0,4.0,0.0,7.0,6.0,8.0,7.0,2.0,4.0,Loddon Mallee,MILDURA,48.0,0.0,0.0, 2016Total
+117,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,Loddon Mallee,MILDURA,3.0,0.0,0.0, 2018YTD
+118,2.0,1.0,0.0,0.0,0.0,2.0,4.0,3.0,0.0,1.0,3.0,3.0,1.0,3.0,6.0,2.0,1.0,0.0,Loddon Mallee,MILDURA,32.0,0.0,0.0, 2018Total
+119,0.0,1.0,1.0,0.0,1.0,2.0,3.0,2.0,2.0,4.0,4.0,2.0,2.0,5.0,5.0,3.0,1.0,4.0,HumeSouthern Metropolitan,STRATHBOGIE,42.0,0.0,0.0, 2017Total
+120,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,HumeSouthern Metropolitan,STRATHBOGIE,4.0,0.0,0.0, 2016YTD
+121,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,1.0,1.0,1.0,0.0,0.0,1.0,HumeSouthern Metropolitan,STRATHBOGIE,7.0,0.0,0.0, 2017YTD
+122,7.0,1.0,1.0,2.0,2.0,1.0,3.0,0.0,2.0,0.0,4.0,2.0,1.0,2.0,0.0,2.0,0.0,4.0,HumeSouthern Metropolitan,STRATHBOGIE,34.0,0.0,0.0, 2019YTD
+123,0.0,1.0,0.0,0.0,0.0,1.0,0.0,2.0,1.0,0.0,1.0,0.0,4.0,0.0,0.0,0.0,1.0,0.0,HumeSouthern Metropolitan,STRATHBOGIE,11.0,0.0,0.0, 2016Total
+124,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HumeSouthern Metropolitan,STRATHBOGIE,4.0,0.0,0.0, 2018YTD
+125,1.0,0.0,0.0,2.0,0.0,2.0,1.0,0.0,2.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,HumeSouthern Metropolitan,STRATHBOGIE,10.0,0.0,0.0, 2018Total
+126,5.0,5.0,19.0,15.0,1.0,6.0,6.0,7.0,7.0,7.0,7.0,7.0,8.0,5.0,7.0,2.0,6.0,7.0,Barwon South West,MOYNE,127.0,0.0,0.0, 2017Total
+127,2.0,1.0,0.0,0.0,1.0,1.0,1.0,2.0,0.0,0.0,3.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,Barwon South West,MOYNE,12.0,0.0,0.0, 2016YTD
+128,1.0,0.0,3.0,1.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,2.0,0.0,1.0,1.0,0.0,1.0,0.0,Barwon South West,MOYNE,13.0,0.0,0.0, 2017YTD
+129,15.0,13.0,4.0,4.0,8.0,11.0,8.0,6.0,2.0,6.0,3.0,4.0,4.0,8.0,5.0,4.0,4.0,5.0,Barwon South West,MOYNE,114.0,0.0,0.0, 2019YTD
+130,4.0,4.0,3.0,2.0,5.0,1.0,3.0,3.0,1.0,1.0,8.0,2.0,4.0,4.0,6.0,4.0,1.0,2.0,Barwon South West,MOYNE,58.0,0.0,0.0, 2016Total
+131,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,2.0,1.0,1.0,0.0,0.0,0.0,Barwon South West,MOYNE,6.0,0.0,0.0, 2018YTD
+132,1.0,1.0,1.0,0.0,0.0,1.0,1.0,2.0,1.0,3.0,3.0,0.0,2.0,2.0,2.0,1.0,0.0,1.0,Barwon South West,MOYNE,22.0,0.0,0.0, 2018Total
+133,2.0,4.0,2.0,0.0,2.0,2.0,2.0,1.0,4.0,7.0,13.0,7.0,4.0,2.0,6.0,5.0,2.0,3.0,Hume,INDIGO,68.0,0.0,0.0, 2017Total
+134,1.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,2.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Hume,INDIGO,8.0,0.0,0.0, 2016YTD
+135,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,Hume,INDIGO,6.0,0.0,0.0, 2017YTD
+136,9.0,6.0,5.0,3.0,0.0,5.0,6.0,2.0,3.0,5.0,7.0,7.0,8.0,2.0,5.0,2.0,4.0,4.0,Hume,INDIGO,83.0,0.0,0.0, 2019YTD
+137,2.0,5.0,1.0,4.0,3.0,2.0,0.0,0.0,0.0,4.0,1.0,1.0,3.0,1.0,0.0,1.0,0.0,0.0,Hume,INDIGO,28.0,0.0,0.0, 2016Total
+138,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,Hume,INDIGO,3.0,0.0,0.0, 2018YTD
+139,1.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,3.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,Hume,INDIGO,12.0,0.0,0.0, 2018Total
+140,0.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0,3.0,2.0,3.0,0.0,1.0,2.0,5.0,4.0,1.0,0.0,Grampians,PYRENEES,25.0,0.0,0.0, 2017Total
+141,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Grampians,PYRENEES,1.0,0.0,0.0, 2016YTD
+142,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,0.0,0.0,Grampians,PYRENEES,4.0,0.0,0.0, 2017YTD
+143,0.0,1.0,2.0,0.0,0.0,1.0,1.0,2.0,1.0,2.0,1.0,4.0,0.0,0.0,1.0,2.0,0.0,2.0,Grampians,PYRENEES,20.0,0.0,0.0, 2019YTD
+144,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,Grampians,PYRENEES,8.0,0.0,0.0, 2016Total
+145,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,Grampians,PYRENEES,2.0,0.0,0.0, 2018YTD
+146,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,Grampians,PYRENEES,3.0,0.0,0.0, 2018Total
+147,31.0,60.0,36.0,36.0,32.0,13.0,17.0,38.0,42.0,53.0,47.0,44.0,32.0,34.0,17.0,10.0,14.0,19.0,GippslandLoddon MalleeNorthern and Western Metropolitan,MACEDON RANGES,575.0,0.0,0.0, 2017Total
+148,0.0,0.0,0.0,0.0,2.0,2.0,1.0,1.0,2.0,2.0,1.0,1.0,3.0,1.0,1.0,0.0,0.0,0.0,GippslandLoddon MalleeNorthern and Western Metropolitan,MACEDON RANGES,17.0,0.0,0.0, 2016YTD
+149,3.0,3.0,3.0,5.0,4.0,4.0,5.0,5.0,1.0,7.0,6.0,4.0,13.0,8.0,3.0,2.0,1.0,1.0,GippslandLoddon MalleeNorthern and Western Metropolitan,MACEDON RANGES,78.0,0.0,0.0, 2017YTD
+150,58.0,69.0,31.0,37.0,19.0,15.0,28.0,20.0,31.0,19.0,28.0,20.0,23.0,16.0,19.0,9.0,11.0,8.0,GippslandLoddon MalleeNorthern and Western Metropolitan,MACEDON RANGES,461.0,0.0,0.0, 2019YTD
+151,3.0,1.0,3.0,8.0,7.0,6.0,5.0,8.0,7.0,5.0,6.0,6.0,11.0,4.0,4.0,3.0,7.0,9.0,GippslandLoddon MalleeNorthern and Western Metropolitan,MACEDON RANGES,104.0,1.0,0.0, 2016Total
+152,4.0,5.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,5.0,4.0,1.0,0.0,1.0,2.0,3.0,0.0,0.0,GippslandLoddon MalleeNorthern and Western Metropolitan,MACEDON RANGES,29.0,0.0,0.0, 2018YTD
+153,10.0,22.0,11.0,6.0,5.0,5.0,4.0,8.0,9.0,13.0,14.0,8.0,7.0,4.0,11.0,7.0,1.0,3.0,GippslandLoddon MalleeNorthern and Western Metropolitan,MACEDON RANGES,148.0,0.0,0.0, 2018Total
+154,52.0,58.0,34.0,27.0,24.0,21.0,25.0,36.0,38.0,38.0,24.0,38.0,25.0,30.0,35.0,19.0,22.0,51.0,Barwon South WestEastern MetropolitanGippslandGrampiansLoddon MalleeNorthern and Western Metropolitan,HOBSONS BAY,597.0,0.0,0.0, 2017Total
+155,7.0,6.0,2.0,1.0,3.0,2.0,2.0,3.0,4.0,8.0,7.0,4.0,1.0,2.0,1.0,1.0,0.0,0.0,Barwon South WestEastern MetropolitanGippslandGrampiansLoddon MalleeNorthern and Western Metropolitan,HOBSONS BAY,54.0,0.0,0.0, 2016YTD
+156,6.0,8.0,5.0,3.0,6.0,5.0,7.0,4.0,7.0,8.0,8.0,7.0,6.0,6.0,9.0,4.0,3.0,3.0,Barwon South WestEastern MetropolitanGippslandGrampiansLoddon MalleeNorthern and Western Metropolitan,HOBSONS BAY,105.0,0.0,0.0, 2017YTD
+157,67.0,79.0,49.0,37.0,33.0,46.0,44.0,57.0,39.0,42.0,32.0,31.0,27.0,14.0,13.0,11.0,20.0,20.0,Barwon South WestEastern MetropolitanGippslandGrampiansLoddon MalleeNorthern and Western Metropolitan,HOBSONS BAY,661.0,0.0,0.0, 2019YTD
+158,18.0,14.0,8.0,9.0,12.0,13.0,11.0,8.0,19.0,14.0,15.0,11.0,8.0,11.0,12.0,5.0,10.0,19.0,Barwon South WestEastern MetropolitanGippslandGrampiansLoddon MalleeNorthern and Western Metropolitan,HOBSONS BAY,217.0,0.0,0.0, 2016Total
+159,1.0,0.0,2.0,2.0,3.0,4.0,3.0,2.0,1.0,5.0,4.0,2.0,1.0,5.0,1.0,2.0,3.0,1.0,Barwon South WestEastern MetropolitanGippslandGrampiansLoddon MalleeNorthern and Western Metropolitan,HOBSONS BAY,42.0,0.0,0.0, 2018YTD
+160,9.0,14.0,6.0,6.0,11.0,12.0,12.0,20.0,16.0,15.0,12.0,14.0,8.0,12.0,4.0,5.0,4.0,9.0,Barwon South WestEastern MetropolitanGippslandGrampiansLoddon MalleeNorthern and Western Metropolitan,HOBSONS BAY,189.0,0.0,0.0, 2018Total
+161,62.0,64.0,38.0,26.0,24.0,34.0,51.0,72.0,51.0,41.0,28.0,31.0,26.0,14.0,18.0,14.0,18.0,35.0,Barwon South WestEastern MetropolitanGrampiansNorthern and Western MetropolitanSouthern Metropolitan,MARIBYRNONG,647.0,0.0,0.0, 2017Total
+162,3.0,1.0,3.0,0.0,2.0,0.0,10.0,8.0,5.0,0.0,3.0,0.0,1.0,0.0,1.0,0.0,0.0,2.0,Barwon South WestEastern MetropolitanGrampiansNorthern and Western MetropolitanSouthern Metropolitan,MARIBYRNONG,39.0,0.0,0.0, 2016YTD
+163,11.0,14.0,4.0,5.0,9.0,6.0,8.0,9.0,5.0,7.0,4.0,7.0,3.0,5.0,3.0,0.0,0.0,5.0,Barwon South WestEastern MetropolitanGrampiansNorthern and Western MetropolitanSouthern Metropolitan,MARIBYRNONG,105.0,0.0,0.0, 2017YTD
+164,63.0,58.0,27.0,18.0,30.0,62.0,52.0,51.0,31.0,29.0,23.0,15.0,18.0,26.0,14.0,11.0,13.0,11.0,Barwon South WestEastern MetropolitanGrampiansNorthern and Western MetropolitanSouthern Metropolitan,MARIBYRNONG,552.0,0.0,0.0, 2019YTD
+165,12.0,5.0,8.0,4.0,8.0,10.0,27.0,19.0,16.0,10.0,10.0,9.0,3.0,5.0,5.0,5.0,8.0,15.0,Barwon South WestEastern MetropolitanGrampiansNorthern and Western MetropolitanSouthern Metropolitan,MARIBYRNONG,179.0,0.0,0.0, 2016Total
+166,2.0,3.0,2.0,0.0,0.0,3.0,3.0,9.0,4.0,0.0,3.0,2.0,0.0,1.0,0.0,0.0,2.0,0.0,Barwon South WestEastern MetropolitanGrampiansNorthern and Western MetropolitanSouthern Metropolitan,MARIBYRNONG,34.0,0.0,0.0, 2018YTD
+167,6.0,13.0,7.0,3.0,10.0,9.0,9.0,21.0,13.0,8.0,7.0,14.0,6.0,5.0,0.0,2.0,5.0,3.0,Barwon South WestEastern MetropolitanGrampiansNorthern and Western MetropolitanSouthern Metropolitan,MARIBYRNONG,141.0,0.0,0.0, 2018Total
+168,15.0,18.0,9.0,10.0,10.0,8.0,6.0,12.0,10.0,10.0,7.0,8.0,8.0,14.0,7.0,12.0,7.0,19.0,Barwon South West,COLAC-OTWAY,190.0,0.0,0.0, 2017Total
+169,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Barwon South West,COLAC-OTWAY,4.0,0.0,0.0, 2016YTD
+170,2.0,2.0,1.0,0.0,2.0,0.0,0.0,2.0,2.0,0.0,1.0,1.0,2.0,1.0,1.0,4.0,0.0,1.0,Barwon South West,COLAC-OTWAY,22.0,0.0,0.0, 2017YTD
+171,6.0,6.0,1.0,4.0,8.0,6.0,5.0,6.0,5.0,6.0,3.0,7.0,4.0,4.0,9.0,4.0,5.0,3.0,Barwon South West,COLAC-OTWAY,92.0,0.0,0.0, 2019YTD
+172,2.0,1.0,0.0,0.0,4.0,0.0,1.0,1.0,0.0,2.0,2.0,6.0,0.0,2.0,1.0,0.0,3.0,8.0,Barwon South West,COLAC-OTWAY,33.0,0.0,0.0, 2016Total
+173,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,2.0,0.0,1.0,Barwon South West,COLAC-OTWAY,5.0,0.0,0.0, 2018YTD
+174,1.0,3.0,2.0,0.0,2.0,2.0,1.0,3.0,1.0,3.0,1.0,2.0,0.0,3.0,0.0,2.0,0.0,1.0,Barwon South West,COLAC-OTWAY,27.0,0.0,0.0, 2018Total
+175,18.0,25.0,13.0,11.0,12.0,13.0,12.0,15.0,11.0,15.0,20.0,20.0,12.0,13.0,7.0,13.0,10.0,21.0,Barwon South WestEastern Metropolitan,WARRNAMBOOL,261.0,0.0,0.0, 2017Total
+176,0.0,1.0,0.0,0.0,1.0,4.0,0.0,2.0,0.0,1.0,2.0,0.0,2.0,0.0,1.0,0.0,0.0,0.0,Barwon South WestEastern Metropolitan,WARRNAMBOOL,14.0,0.0,0.0, 2016YTD
+177,3.0,1.0,0.0,2.0,4.0,1.0,4.0,3.0,3.0,2.0,4.0,5.0,1.0,0.0,1.0,2.0,0.0,2.0,Barwon South WestEastern Metropolitan,WARRNAMBOOL,38.0,0.0,0.0, 2017YTD
+178,31.0,22.0,17.0,20.0,12.0,24.0,18.0,26.0,15.0,11.0,9.0,13.0,17.0,12.0,9.0,4.0,11.0,18.0,Barwon South WestEastern Metropolitan,WARRNAMBOOL,289.0,0.0,0.0, 2019YTD
+179,4.0,2.0,3.0,1.0,13.0,6.0,3.0,5.0,5.0,3.0,6.0,3.0,5.0,3.0,6.0,5.0,4.0,6.0,Barwon South WestEastern Metropolitan,WARRNAMBOOL,83.0,0.0,0.0, 2016Total
+180,0.0,0.0,0.0,0.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,Barwon South WestEastern Metropolitan,WARRNAMBOOL,4.0,0.0,0.0, 2018YTD
+181,1.0,0.0,1.0,2.0,3.0,3.0,2.0,0.0,1.0,0.0,0.0,3.0,0.0,1.0,3.0,4.0,0.0,1.0,Barwon South WestEastern Metropolitan,WARRNAMBOOL,25.0,0.0,0.0, 2018Total
+182,9.0,9.0,10.0,12.0,15.0,14.0,21.0,13.0,14.0,25.0,19.0,20.0,36.0,17.0,19.0,26.0,27.0,53.0,GippslandNorthern and Western Metropolitan,EAST GIPPSLAND,360.0,1.0,0.0, 2017Total
+183,2.0,0.0,0.0,2.0,0.0,0.0,2.0,1.0,1.0,1.0,0.0,1.0,2.0,2.0,0.0,0.0,1.0,0.0,GippslandNorthern and Western Metropolitan,EAST GIPPSLAND,15.0,0.0,0.0, 2016YTD
+184,2.0,0.0,2.0,5.0,0.0,3.0,8.0,3.0,5.0,4.0,6.0,10.0,7.0,2.0,2.0,3.0,2.0,3.0,GippslandNorthern and Western Metropolitan,EAST GIPPSLAND,68.0,1.0,0.0, 2017YTD
+185,13.0,6.0,2.0,8.0,9.0,10.0,12.0,4.0,6.0,9.0,7.0,7.0,6.0,11.0,3.0,7.0,3.0,2.0,GippslandNorthern and Western Metropolitan,EAST GIPPSLAND,125.0,0.0,0.0, 2019YTD
+186,2.0,2.0,0.0,2.0,2.0,3.0,4.0,3.0,1.0,5.0,0.0,1.0,4.0,2.0,2.0,4.0,1.0,4.0,GippslandNorthern and Western Metropolitan,EAST GIPPSLAND,42.0,0.0,0.0, 2016Total
+187,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,GippslandNorthern and Western Metropolitan,EAST GIPPSLAND,6.0,0.0,0.0, 2018YTD
+188,3.0,2.0,0.0,0.0,0.0,2.0,2.0,1.0,2.0,2.0,5.0,5.0,3.0,3.0,6.0,3.0,2.0,1.0,GippslandNorthern and Western Metropolitan,EAST GIPPSLAND,42.0,0.0,0.0, 2018Total
+189,6.0,1.0,6.0,14.0,11.0,6.0,9.0,6.0,5.0,12.0,20.0,23.0,16.0,12.0,17.0,17.0,15.0,19.0,Hume,BENALLA,215.0,0.0,0.0, 2017Total
+190,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,Hume,BENALLA,4.0,0.0,0.0, 2016YTD
+191,1.0,0.0,2.0,4.0,1.0,1.0,1.0,1.0,0.0,1.0,2.0,1.0,1.0,0.0,2.0,1.0,0.0,0.0,Hume,BENALLA,19.0,0.0,0.0, 2017YTD
+192,6.0,4.0,10.0,6.0,5.0,4.0,2.0,7.0,2.0,6.0,8.0,5.0,6.0,5.0,10.0,4.0,4.0,10.0,Hume,BENALLA,104.0,0.0,0.0, 2019YTD
+193,0.0,2.0,3.0,4.0,5.0,4.0,3.0,1.0,2.0,1.0,5.0,2.0,2.0,6.0,2.0,4.0,2.0,0.0,Hume,BENALLA,48.0,0.0,0.0, 2016Total
+194,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,1.0,2.0,0.0,0.0,0.0,Hume,BENALLA,7.0,0.0,0.0, 2018YTD
+195,5.0,10.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,2.0,4.0,6.0,1.0,4.0,2.0,0.0,0.0,Hume,BENALLA,40.0,0.0,0.0, 2018Total
+196,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Loddon Mallee,WENTWORTH,1.0,0.0,0.0, 2017Total
+197,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Loddon Mallee,WENTWORTH,0.0,0.0,0.0, 2016YTD
+198,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Loddon Mallee,WENTWORTH,0.0,0.0,0.0, 2017YTD
+199,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Loddon Mallee,WENTWORTH,0.0,0.0,0.0, 2019YTD
+200,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Loddon Mallee,WENTWORTH,0.0,0.0,0.0, 2016Total
+201,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Loddon Mallee,WENTWORTH,0.0,0.0,0.0, 2018YTD
+202,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Loddon Mallee,WENTWORTH,0.0,0.0,0.0, 2018Total
+203,73.0,77.0,50.0,52.0,54.0,67.0,57.0,52.0,50.0,53.0,51.0,55.0,38.0,43.0,40.0,34.0,38.0,56.0,Barwon South WestEastern MetropolitanLoddon MalleeNorthern and Western MetropolitanSouthern Metropolitan,STONNINGTON,940.0,0.0,0.0, 2017Total
+204,4.0,1.0,1.0,4.0,2.0,8.0,7.0,8.0,4.0,5.0,3.0,6.0,2.0,4.0,3.0,2.0,1.0,0.0,Barwon South WestEastern MetropolitanLoddon MalleeNorthern and Western MetropolitanSouthern Metropolitan,STONNINGTON,65.0,0.0,0.0, 2016YTD
+205,9.0,10.0,11.0,9.0,15.0,20.0,18.0,13.0,8.0,12.0,9.0,12.0,6.0,4.0,8.0,6.0,9.0,12.0,Barwon South WestEastern MetropolitanLoddon MalleeNorthern and Western MetropolitanSouthern Metropolitan,STONNINGTON,191.0,0.0,0.0, 2017YTD
+206,42.0,51.0,61.0,45.0,63.0,49.0,73.0,57.0,45.0,36.0,23.0,31.0,30.0,31.0,22.0,16.0,15.0,40.0,Barwon South WestEastern MetropolitanLoddon MalleeNorthern and Western MetropolitanSouthern Metropolitan,STONNINGTON,730.0,0.0,0.0, 2019YTD
+207,18.0,10.0,8.0,15.0,19.0,29.0,23.0,18.0,15.0,14.0,18.0,20.0,18.0,12.0,20.0,11.0,20.0,29.0,Barwon South WestEastern MetropolitanLoddon MalleeNorthern and Western MetropolitanSouthern Metropolitan,STONNINGTON,317.0,0.0,0.0, 2016Total
+208,2.0,0.0,3.0,2.0,6.0,6.0,8.0,6.0,6.0,5.0,8.0,5.0,7.0,0.0,3.0,1.0,1.0,1.0,Barwon South WestEastern MetropolitanLoddon MalleeNorthern and Western MetropolitanSouthern Metropolitan,STONNINGTON,70.0,0.0,0.0, 2018YTD
+209,11.0,10.0,7.0,10.0,17.0,26.0,22.0,20.0,21.0,15.0,14.0,17.0,11.0,9.0,9.0,4.0,5.0,6.0,Barwon South WestEastern MetropolitanLoddon MalleeNorthern and Western MetropolitanSouthern Metropolitan,STONNINGTON,234.0,0.0,0.0, 2018Total
+210,78.0,87.0,55.0,43.0,51.0,50.0,58.0,55.0,72.0,42.0,53.0,49.0,40.0,25.0,35.0,15.0,22.0,29.0,Northern and Western Metropolitan,MELTON,860.0,1.0,0.0, 2017Total
+211,12.0,3.0,1.0,1.0,2.0,2.0,3.0,5.0,3.0,2.0,3.0,2.0,1.0,1.0,4.0,1.0,0.0,0.0,Northern and Western Metropolitan,MELTON,46.0,0.0,0.0, 2016YTD
+212,14.0,10.0,2.0,5.0,7.0,9.0,8.0,4.0,8.0,9.0,8.0,5.0,9.0,6.0,8.0,6.0,3.0,5.0,Northern and Western Metropolitan,MELTON,127.0,1.0,0.0, 2017YTD
+213,165.0,182.0,73.0,56.0,67.0,78.0,119.0,114.0,70.0,55.0,49.0,41.0,35.0,23.0,22.0,17.0,8.0,12.0,Northern and Western Metropolitan,MELTON,1186.0,0.0,0.0, 2019YTD
+214,20.0,7.0,10.0,5.0,12.0,10.0,15.0,15.0,15.0,9.0,13.0,8.0,9.0,6.0,9.0,6.0,18.0,20.0,Northern and Western Metropolitan,MELTON,207.0,0.0,0.0, 2016Total
+215,7.0,7.0,1.0,2.0,0.0,3.0,5.0,2.0,6.0,2.0,4.0,2.0,1.0,4.0,2.0,1.0,3.0,1.0,Northern and Western Metropolitan,MELTON,53.0,0.0,0.0, 2018YTD
+216,40.0,46.0,10.0,6.0,14.0,21.0,26.0,21.0,29.0,13.0,22.0,15.0,11.0,11.0,11.0,4.0,8.0,3.0,Northern and Western Metropolitan,MELTON,311.0,0.0,0.0, 2018Total
+217,49.0,62.0,38.0,34.0,29.0,41.0,55.0,78.0,57.0,54.0,45.0,47.0,29.0,25.0,43.0,47.0,68.0,107.0,Barwon South WestEastern MetropolitanHumeNorthern and Western Metropolitan,DAREBIN,908.0,0.0,0.0, 2017Total
+218,4.0,4.0,0.0,1.0,1.0,1.0,4.0,0.0,3.0,3.0,1.0,2.0,1.0,0.0,1.0,4.0,3.0,1.0,Barwon South WestEastern MetropolitanHumeNorthern and Western Metropolitan,DAREBIN,34.0,0.0,0.0, 2016YTD
+219,3.0,8.0,3.0,2.0,4.0,7.0,11.0,13.0,7.0,10.0,8.0,7.0,2.0,2.0,6.0,4.0,9.0,14.0,Barwon South WestEastern MetropolitanHumeNorthern and Western Metropolitan,DAREBIN,120.0,0.0,0.0, 2017YTD
+220,61.0,73.0,45.0,30.0,46.0,61.0,80.0,78.0,58.0,43.0,44.0,34.0,29.0,26.0,16.0,16.0,26.0,52.0,Barwon South WestEastern MetropolitanHumeNorthern and Western Metropolitan,DAREBIN,818.0,0.0,0.0, 2019YTD
+221,18.0,10.0,7.0,10.0,13.0,20.0,17.0,10.0,13.0,10.0,5.0,11.0,6.0,7.0,11.0,20.0,25.0,49.0,Barwon South WestEastern MetropolitanHumeNorthern and Western Metropolitan,DAREBIN,262.0,0.0,0.0, 2016Total
+222,4.0,8.0,2.0,0.0,3.0,5.0,2.0,2.0,6.0,8.0,6.0,5.0,1.0,2.0,1.0,1.0,1.0,3.0,Barwon South WestEastern MetropolitanHumeNorthern and Western Metropolitan,DAREBIN,60.0,0.0,0.0, 2018YTD
+223,8.0,22.0,6.0,4.0,12.0,15.0,15.0,15.0,17.0,22.0,14.0,14.0,10.0,8.0,6.0,10.0,8.0,10.0,Barwon South WestEastern MetropolitanHumeNorthern and Western Metropolitan,DAREBIN,216.0,0.0,0.0, 2018Total
+224,7.0,17.0,15.0,14.0,10.0,8.0,10.0,11.0,15.0,18.0,13.0,11.0,10.0,6.0,9.0,7.0,9.0,21.0,Barwon South WestNorthern and Western Metropolitan,SOUTHERN GRAMPIANS,211.0,0.0,0.0, 2017Total
+225,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,Barwon South WestNorthern and Western Metropolitan,SOUTHERN GRAMPIANS,3.0,0.0,0.0, 2016YTD
+226,0.0,0.0,0.0,1.0,1.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,4.0,1.0,1.0,2.0,1.0,5.0,Barwon South WestNorthern and Western Metropolitan,SOUTHERN GRAMPIANS,20.0,0.0,0.0, 2017YTD
+227,6.0,16.0,8.0,4.0,1.0,5.0,5.0,6.0,3.0,3.0,3.0,5.0,3.0,5.0,4.0,3.0,3.0,4.0,Barwon South WestNorthern and Western Metropolitan,SOUTHERN GRAMPIANS,87.0,0.0,0.0, 2019YTD
+228,2.0,2.0,1.0,1.0,0.0,0.0,1.0,2.0,0.0,1.0,1.0,4.0,1.0,1.0,4.0,0.0,0.0,2.0,Barwon South WestNorthern and Western Metropolitan,SOUTHERN GRAMPIANS,23.0,0.0,0.0, 2016Total
+229,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,Barwon South WestNorthern and Western Metropolitan,SOUTHERN GRAMPIANS,2.0,0.0,0.0, 2018YTD
+230,2.0,1.0,3.0,0.0,0.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,Barwon South WestNorthern and Western Metropolitan,SOUTHERN GRAMPIANS,11.0,0.0,0.0, 2018Total
+231,229.0,233.0,101.0,67.0,46.0,76.0,103.0,123.0,112.0,66.0,56.0,50.0,54.0,56.0,35.0,40.0,34.0,52.0,Eastern MetropolitanNorthern and Western MetropolitanSouthern Metropolitan,WYNDHAM,1533.0,0.0,0.0, 2017Total
+232,25.0,10.0,1.0,8.0,3.0,4.0,11.0,11.0,3.0,9.0,5.0,4.0,3.0,3.0,1.0,0.0,1.0,1.0,Eastern MetropolitanNorthern and Western MetropolitanSouthern Metropolitan,WYNDHAM,103.0,0.0,0.0, 2016YTD
+233,45.0,26.0,13.0,8.0,7.0,16.0,25.0,16.0,21.0,11.0,4.0,12.0,12.0,13.0,8.0,10.0,8.0,10.0,Eastern MetropolitanNorthern and Western MetropolitanSouthern Metropolitan,WYNDHAM,265.0,0.0,0.0, 2017YTD
+234,298.0,323.0,128.0,69.0,83.0,94.0,184.0,151.0,92.0,61.0,57.0,44.0,43.0,31.0,34.0,22.0,17.0,26.0,Eastern MetropolitanNorthern and Western MetropolitanSouthern Metropolitan,WYNDHAM,1757.0,0.0,0.0, 2019YTD
+235,51.0,33.0,15.0,22.0,12.0,21.0,33.0,26.0,15.0,20.0,13.0,22.0,13.0,3.0,7.0,10.0,7.0,13.0,Eastern MetropolitanNorthern and Western MetropolitanSouthern Metropolitan,WYNDHAM,336.0,0.0,0.0, 2016Total
+236,39.0,24.0,3.0,1.0,1.0,2.0,2.0,17.0,11.0,7.0,4.0,7.0,8.0,1.0,3.0,1.0,1.0,0.0,Eastern MetropolitanNorthern and Western MetropolitanSouthern Metropolitan,WYNDHAM,132.0,0.0,0.0, 2018YTD
+237,129.0,123.0,23.0,7.0,10.0,22.0,33.0,64.0,33.0,31.0,20.0,21.0,24.0,11.0,13.0,8.0,9.0,4.0,Eastern MetropolitanNorthern and Western MetropolitanSouthern Metropolitan,WYNDHAM,585.0,0.0,0.0, 2018Total
+238,1.0,6.0,4.0,5.0,7.0,3.0,6.0,6.0,10.0,12.0,10.0,8.0,15.0,9.0,9.0,11.0,2.0,7.0,Barwon South WestGrampiansLoddon MalleeNorthern and Western MetropolitanSouthern Metropolitan,HEPBURN,132.0,1.0,0.0, 2017Total
+239,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,Barwon South WestGrampiansLoddon MalleeNorthern and Western MetropolitanSouthern Metropolitan,HEPBURN,5.0,0.0,0.0, 2016YTD
+240,0.0,2.0,0.0,0.0,1.0,0.0,2.0,2.0,0.0,1.0,2.0,2.0,4.0,2.0,2.0,0.0,0.0,1.0,Barwon South WestGrampiansLoddon MalleeNorthern and Western MetropolitanSouthern Metropolitan,HEPBURN,21.0,0.0,0.0, 2017YTD
+241,4.0,2.0,3.0,3.0,7.0,3.0,10.0,5.0,14.0,5.0,5.0,7.0,9.0,14.0,8.0,9.0,1.0,3.0,Barwon South WestGrampiansLoddon MalleeNorthern and Western MetropolitanSouthern Metropolitan,HEPBURN,112.0,0.0,0.0, 2019YTD
+242,1.0,0.0,1.0,1.0,1.0,1.0,2.0,1.0,4.0,2.0,2.0,4.0,8.0,4.0,3.0,1.0,0.0,1.0,Barwon South WestGrampiansLoddon MalleeNorthern and Western MetropolitanSouthern Metropolitan,HEPBURN,37.0,0.0,0.0, 2016Total
+243,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,1.0,0.0,4.0,0.0,1.0,1.0,1.0,0.0,Barwon South WestGrampiansLoddon MalleeNorthern and Western MetropolitanSouthern Metropolitan,HEPBURN,11.0,0.0,0.0, 2018YTD
+244,0.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,3.0,0.0,2.0,2.0,6.0,1.0,3.0,4.0,1.0,1.0,Barwon South WestGrampiansLoddon MalleeNorthern and Western MetropolitanSouthern Metropolitan,HEPBURN,27.0,0.0,0.0, 2018Total
+245,30.0,34.0,16.0,16.0,35.0,57.0,68.0,52.0,52.0,38.0,27.0,33.0,27.0,22.0,15.0,19.0,10.0,16.0,Eastern MetropolitanLoddon MalleeNorthern and Western MetropolitanSouthern Metropolitan,YARRA,567.0,0.0,0.0, 2017Total
+246,4.0,3.0,2.0,6.0,4.0,7.0,8.0,6.0,4.0,3.0,1.0,1.0,1.0,2.0,2.0,1.0,0.0,0.0,Eastern MetropolitanLoddon MalleeNorthern and Western MetropolitanSouthern Metropolitan,YARRA,55.0,0.0,0.0, 2016YTD
+247,4.0,3.0,2.0,4.0,7.0,11.0,8.0,11.0,5.0,7.0,6.0,8.0,6.0,5.0,2.0,3.0,2.0,2.0,Eastern MetropolitanLoddon MalleeNorthern and Western MetropolitanSouthern Metropolitan,YARRA,96.0,0.0,0.0, 2017YTD
+248,15.0,23.0,18.0,15.0,35.0,69.0,59.0,49.0,31.0,27.0,15.0,24.0,20.0,16.0,20.0,14.0,4.0,9.0,Eastern MetropolitanLoddon MalleeNorthern and Western MetropolitanSouthern Metropolitan,YARRA,463.0,0.0,0.0, 2019YTD
+249,8.0,7.0,6.0,8.0,13.0,24.0,27.0,14.0,10.0,9.0,4.0,6.0,8.0,10.0,8.0,6.0,10.0,6.0,Eastern MetropolitanLoddon MalleeNorthern and Western MetropolitanSouthern Metropolitan,YARRA,184.0,0.0,0.0, 2016Total
+250,1.0,3.0,1.0,0.0,2.0,4.0,9.0,7.0,4.0,4.0,4.0,3.0,7.0,1.0,4.0,1.0,1.0,0.0,Eastern MetropolitanLoddon MalleeNorthern and Western MetropolitanSouthern Metropolitan,YARRA,56.0,0.0,0.0, 2018YTD
+251,8.0,10.0,5.0,2.0,8.0,15.0,23.0,23.0,16.0,12.0,13.0,8.0,14.0,6.0,11.0,9.0,3.0,6.0,Eastern MetropolitanLoddon MalleeNorthern and Western MetropolitanSouthern Metropolitan,YARRA,192.0,0.0,0.0, 2018Total
+252,0.0,1.0,3.0,2.0,4.0,4.0,5.0,5.0,2.0,6.0,5.0,5.0,3.0,4.0,3.0,5.0,4.0,9.0,Barwon South WestLoddon Mallee,MOUNT ALEXANDER,70.0,0.0,0.0, 2017Total
+253,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Barwon South WestLoddon Mallee,MOUNT ALEXANDER,4.0,0.0,0.0, 2016YTD
+254,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,2.0,1.0,2.0,2.0,4.0,Barwon South WestLoddon Mallee,MOUNT ALEXANDER,15.0,0.0,0.0, 2017YTD
+255,5.0,5.0,3.0,5.0,1.0,4.0,8.0,4.0,2.0,6.0,5.0,9.0,11.0,5.0,5.0,5.0,3.0,3.0,Barwon South WestLoddon Mallee,MOUNT ALEXANDER,89.0,0.0,0.0, 2019YTD
+256,1.0,2.0,0.0,2.0,3.0,0.0,4.0,0.0,1.0,0.0,2.0,2.0,4.0,2.0,1.0,2.0,1.0,0.0,Barwon South WestLoddon Mallee,MOUNT ALEXANDER,27.0,0.0,0.0, 2016Total
+257,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,Barwon South WestLoddon Mallee,MOUNT ALEXANDER,6.0,0.0,0.0, 2018YTD
+258,0.0,6.0,5.0,2.0,0.0,1.0,2.0,2.0,2.0,4.0,1.0,3.0,1.0,1.0,0.0,3.0,1.0,1.0,Barwon South WestLoddon Mallee,MOUNT ALEXANDER,35.0,0.0,0.0, 2018Total
+259,103.0,176.0,118.0,103.0,49.0,34.0,39.0,86.0,90.0,105.0,105.0,93.0,79.0,62.0,50.0,41.0,32.0,70.0,Southern Metropolitan,BAYSIDE,1435.0,0.0,0.0, 2017Total
+260,6.0,7.0,2.0,4.0,6.0,2.0,3.0,10.0,4.0,8.0,2.0,6.0,7.0,2.0,1.0,1.0,3.0,5.0,Southern Metropolitan,BAYSIDE,79.0,0.0,0.0, 2016YTD
+261,22.0,29.0,21.0,16.0,9.0,4.0,11.0,22.0,20.0,31.0,28.0,17.0,13.0,16.0,12.0,4.0,9.0,9.0,Southern Metropolitan,BAYSIDE,293.0,0.0,0.0, 2017YTD
+262,59.0,62.0,61.0,52.0,41.0,29.0,33.0,36.0,45.0,48.0,43.0,44.0,40.0,29.0,30.0,15.0,17.0,13.0,Southern Metropolitan,BAYSIDE,697.0,0.0,0.0, 2019YTD
+263,21.0,31.0,14.0,30.0,25.0,15.0,18.0,25.0,16.0,33.0,19.0,21.0,25.0,9.0,12.0,14.0,18.0,28.0,Southern Metropolitan,BAYSIDE,375.0,1.0,0.0, 2016Total
+264,7.0,6.0,7.0,4.0,5.0,1.0,1.0,5.0,11.0,9.0,12.0,8.0,2.0,13.0,5.0,3.0,3.0,4.0,Southern Metropolitan,BAYSIDE,106.0,0.0,0.0, 2018YTD
+265,17.0,15.0,15.0,11.0,11.0,9.0,5.0,14.0,26.0,22.0,21.0,18.0,13.0,19.0,9.0,4.0,7.0,10.0,Southern Metropolitan,BAYSIDE,246.0,0.0,0.0, 2018Total
+266,7.0,8.0,7.0,14.0,7.0,4.0,9.0,14.0,8.0,14.0,7.0,16.0,13.0,11.0,5.0,3.0,4.0,9.0,Barwon South West,SURF COAST,160.0,0.0,0.0, 2017Total
+267,1.0,1.0,1.0,1.0,0.0,0.0,1.0,1.0,4.0,0.0,1.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,Barwon South West,SURF COAST,14.0,0.0,0.0, 2016YTD
+268,3.0,0.0,0.0,1.0,2.0,0.0,0.0,2.0,0.0,2.0,1.0,3.0,4.0,1.0,2.0,0.0,2.0,1.0,Barwon South West,SURF COAST,24.0,0.0,0.0, 2017YTD
+269,14.0,19.0,9.0,6.0,3.0,4.0,11.0,14.0,15.0,14.0,7.0,10.0,11.0,8.0,4.0,3.0,12.0,4.0,Barwon South West,SURF COAST,168.0,0.0,0.0, 2019YTD
+270,5.0,3.0,2.0,6.0,4.0,3.0,4.0,5.0,6.0,3.0,4.0,6.0,4.0,6.0,2.0,4.0,0.0,0.0,Barwon South West,SURF COAST,67.0,0.0,0.0, 2016Total
+271,1.0,2.0,0.0,1.0,0.0,1.0,0.0,3.0,1.0,1.0,2.0,1.0,4.0,1.0,0.0,3.0,0.0,0.0,Barwon South West,SURF COAST,21.0,0.0,0.0, 2018YTD
+272,1.0,3.0,1.0,2.0,1.0,1.0,3.0,6.0,3.0,7.0,3.0,2.0,5.0,2.0,1.0,3.0,0.0,0.0,Barwon South West,SURF COAST,44.0,0.0,0.0, 2018Total
+273,34.0,44.0,31.0,29.0,26.0,23.0,30.0,23.0,25.0,38.0,29.0,37.0,32.0,27.0,13.0,19.0,16.0,31.0,Eastern MetropolitanGippslandSouthern Metropolitan,WELLINGTON,507.0,0.0,0.0, 2017Total
+274,4.0,0.0,0.0,0.0,1.0,2.0,1.0,4.0,1.0,0.0,1.0,1.0,2.0,1.0,0.0,2.0,0.0,0.0,Eastern MetropolitanGippslandSouthern Metropolitan,WELLINGTON,20.0,0.0,0.0, 2016YTD
+275,12.0,10.0,1.0,11.0,4.0,6.0,5.0,5.0,6.0,8.0,9.0,12.0,9.0,4.0,1.0,5.0,3.0,15.0,Eastern MetropolitanGippslandSouthern Metropolitan,WELLINGTON,126.0,0.0,0.0, 2017YTD
+276,26.0,25.0,12.0,10.0,25.0,12.0,14.0,13.0,15.0,8.0,10.0,13.0,19.0,18.0,15.0,11.0,6.0,7.0,Eastern MetropolitanGippslandSouthern Metropolitan,WELLINGTON,259.0,0.0,0.0, 2019YTD
+277,7.0,3.0,1.0,6.0,7.0,10.0,9.0,5.0,8.0,6.0,5.0,10.0,6.0,6.0,4.0,12.0,2.0,5.0,Eastern MetropolitanGippslandSouthern Metropolitan,WELLINGTON,114.0,2.0,0.0, 2016Total
+278,1.0,1.0,1.0,2.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,2.0,0.0,3.0,0.0,0.0,0.0,Eastern MetropolitanGippslandSouthern Metropolitan,WELLINGTON,15.0,0.0,0.0, 2018YTD
+279,9.0,17.0,7.0,10.0,5.0,10.0,14.0,8.0,7.0,12.0,5.0,5.0,8.0,3.0,6.0,2.0,4.0,9.0,Eastern MetropolitanGippslandSouthern Metropolitan,WELLINGTON,141.0,0.0,0.0, 2018Total
+280,2.0,2.0,9.0,8.0,1.0,1.0,5.0,0.0,3.0,5.0,2.0,2.0,4.0,4.0,2.0,4.0,5.0,3.0,Loddon Mallee,GANNAWARRA,62.0,0.0,0.0, 2017Total
+281,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,Loddon Mallee,GANNAWARRA,2.0,0.0,0.0, 2016YTD
+282,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,Loddon Mallee,GANNAWARRA,2.0,0.0,0.0, 2017YTD
+283,1.0,1.0,2.0,2.0,2.0,1.0,4.0,5.0,3.0,3.0,2.0,1.0,4.0,1.0,2.0,4.0,3.0,4.0,Loddon Mallee,GANNAWARRA,45.0,0.0,0.0, 2019YTD
+284,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,Loddon Mallee,GANNAWARRA,5.0,0.0,0.0, 2016Total
+285,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,Loddon Mallee,GANNAWARRA,2.0,0.0,0.0, 2018YTD
+286,1.0,0.0,2.0,1.0,1.0,0.0,1.0,2.0,0.0,1.0,0.0,0.0,1.0,2.0,1.0,0.0,0.0,0.0,Loddon Mallee,GANNAWARRA,13.0,0.0,0.0, 2018Total
+287,58.0,54.0,39.0,26.0,34.0,43.0,76.0,78.0,64.0,73.0,53.0,46.0,38.0,35.0,32.0,21.0,29.0,34.0,Barwon South WestEastern MetropolitanGippslandNorthern and Western MetropolitanSouthern Metropolitan,PORT PHILLIP,833.0,0.0,0.0, 2017Total
+288,9.0,1.0,4.0,3.0,2.0,4.0,7.0,9.0,10.0,8.0,6.0,6.0,4.0,2.0,3.0,0.0,2.0,0.0,Barwon South WestEastern MetropolitanGippslandNorthern and Western MetropolitanSouthern Metropolitan,PORT PHILLIP,80.0,0.0,0.0, 2016YTD
+289,9.0,11.0,8.0,7.0,8.0,13.0,18.0,17.0,14.0,18.0,16.0,7.0,13.0,10.0,8.0,7.0,4.0,5.0,Barwon South WestEastern MetropolitanGippslandNorthern and Western MetropolitanSouthern Metropolitan,PORT PHILLIP,193.0,0.0,0.0, 2017YTD
+290,47.0,49.0,29.0,25.0,38.0,71.0,86.0,78.0,65.0,46.0,32.0,41.0,30.0,18.0,20.0,9.0,7.0,12.0,Barwon South WestEastern MetropolitanGippslandNorthern and Western MetropolitanSouthern Metropolitan,PORT PHILLIP,703.0,0.0,0.0, 2019YTD
+291,16.0,7.0,7.0,9.0,12.0,18.0,26.0,25.0,23.0,17.0,21.0,11.0,16.0,10.0,5.0,3.0,8.0,8.0,Barwon South WestEastern MetropolitanGippslandNorthern and Western MetropolitanSouthern Metropolitan,PORT PHILLIP,242.0,0.0,0.0, 2016Total
+292,1.0,2.0,0.0,3.0,3.0,4.0,8.0,9.0,13.0,10.0,7.0,3.0,4.0,2.0,1.0,0.0,2.0,2.0,Barwon South WestEastern MetropolitanGippslandNorthern and Western MetropolitanSouthern Metropolitan,PORT PHILLIP,74.0,0.0,0.0, 2018YTD
+293,11.0,11.0,3.0,7.0,6.0,27.0,14.0,35.0,32.0,24.0,17.0,9.0,11.0,7.0,2.0,5.0,5.0,9.0,Barwon South WestEastern MetropolitanGippslandNorthern and Western MetropolitanSouthern Metropolitan,PORT PHILLIP,235.0,0.0,0.0, 2018Total
+294,12.0,13.0,16.0,11.0,10.0,10.0,10.0,12.0,17.0,13.0,9.0,10.0,15.0,23.0,10.0,14.0,12.0,29.0,Eastern MetropolitanGippslandNorthern and Western Metropolitan,BASS COAST,246.0,0.0,0.0, 2017Total
+295,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,Eastern MetropolitanGippslandNorthern and Western Metropolitan,BASS COAST,6.0,0.0,0.0, 2016YTD
+296,2.0,1.0,2.0,0.0,0.0,1.0,3.0,0.0,2.0,2.0,2.0,3.0,3.0,2.0,0.0,5.0,1.0,2.0,Eastern MetropolitanGippslandNorthern and Western Metropolitan,BASS COAST,31.0,0.0,0.0, 2017YTD
+297,12.0,11.0,14.0,1.0,9.0,11.0,14.0,11.0,9.0,5.0,11.0,14.0,17.0,11.0,7.0,13.0,10.0,10.0,Eastern MetropolitanGippslandNorthern and Western Metropolitan,BASS COAST,190.0,0.0,0.0, 2019YTD
+298,0.0,4.0,2.0,2.0,1.0,2.0,2.0,1.0,1.0,1.0,0.0,2.0,4.0,3.0,2.0,2.0,5.0,0.0,Eastern MetropolitanGippslandNorthern and Western Metropolitan,BASS COAST,35.0,1.0,0.0, 2016Total
+299,3.0,2.0,1.0,0.0,0.0,2.0,0.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Eastern MetropolitanGippslandNorthern and Western Metropolitan,BASS COAST,13.0,0.0,0.0, 2018YTD
+300,4.0,3.0,1.0,0.0,1.0,5.0,3.0,3.0,3.0,2.0,3.0,3.0,5.0,4.0,2.0,1.0,2.0,0.0,Eastern MetropolitanGippslandNorthern and Western Metropolitan,BASS COAST,45.0,0.0,0.0, 2018Total
+301,81.0,90.0,60.0,50.0,36.0,26.0,41.0,50.0,55.0,60.0,40.0,53.0,50.0,43.0,51.0,62.0,58.0,104.0,Eastern MetropolitanNorthern and Western MetropolitanSouthern Metropolitan,MANNINGHAM,1010.0,0.0,0.0, 2017Total
+302,2.0,1.0,3.0,2.0,3.0,2.0,1.0,2.0,6.0,3.0,4.0,1.0,2.0,2.0,2.0,2.0,0.0,13.0,Eastern MetropolitanNorthern and Western MetropolitanSouthern Metropolitan,MANNINGHAM,51.0,0.0,0.0, 2016YTD
+303,16.0,16.0,8.0,12.0,5.0,6.0,18.0,11.0,7.0,12.0,6.0,8.0,10.0,11.0,9.0,16.0,17.0,25.0,Eastern MetropolitanNorthern and Western MetropolitanSouthern Metropolitan,MANNINGHAM,213.0,0.0,0.0, 2017YTD
+304,71.0,66.0,41.0,17.0,44.0,46.0,47.0,48.0,35.0,22.0,33.0,42.0,33.0,29.0,23.0,27.0,48.0,56.0,Eastern MetropolitanNorthern and Western MetropolitanSouthern Metropolitan,MANNINGHAM,728.0,0.0,0.0, 2019YTD
+305,10.0,8.0,12.0,15.0,12.0,7.0,11.0,13.0,12.0,12.0,17.0,10.0,18.0,11.0,15.0,24.0,10.0,49.0,Eastern MetropolitanNorthern and Western MetropolitanSouthern Metropolitan,MANNINGHAM,266.0,0.0,0.0, 2016Total
+306,7.0,9.0,3.0,3.0,4.0,2.0,2.0,3.0,2.0,7.0,6.0,6.0,4.0,5.0,3.0,3.0,1.0,4.0,Eastern MetropolitanNorthern and Western MetropolitanSouthern Metropolitan,MANNINGHAM,74.0,0.0,0.0, 2018YTD
+307,15.0,20.0,9.0,7.0,10.0,6.0,8.0,18.0,8.0,20.0,13.0,14.0,12.0,12.0,7.0,9.0,6.0,9.0,Eastern MetropolitanNorthern and Western MetropolitanSouthern Metropolitan,MANNINGHAM,203.0,0.0,0.0, 2018Total
+308,23.0,22.0,18.0,26.0,23.0,15.0,23.0,23.0,24.0,26.0,21.0,34.0,32.0,31.0,17.0,26.0,46.0,58.0,GippslandLoddon MalleeNorthern and Western MetropolitanSouthern Metropolitan,GREATER BENDIGO,488.0,0.0,0.0, 2017Total
+309,4.0,0.0,1.0,1.0,1.0,0.0,0.0,2.0,0.0,1.0,1.0,1.0,1.0,2.0,0.0,1.0,4.0,3.0,GippslandLoddon MalleeNorthern and Western MetropolitanSouthern Metropolitan,GREATER BENDIGO,23.0,0.0,0.0, 2016YTD
+310,2.0,0.0,0.0,0.0,4.0,4.0,3.0,5.0,3.0,4.0,1.0,5.0,9.0,3.0,2.0,1.0,12.0,15.0,GippslandLoddon MalleeNorthern and Western MetropolitanSouthern Metropolitan,GREATER BENDIGO,73.0,0.0,0.0, 2017YTD
+311,24.0,26.0,13.0,19.0,21.0,23.0,31.0,28.0,13.0,28.0,19.0,23.0,22.0,23.0,10.0,21.0,14.0,28.0,GippslandLoddon MalleeNorthern and Western MetropolitanSouthern Metropolitan,GREATER BENDIGO,386.0,0.0,0.0, 2019YTD
+312,11.0,1.0,1.0,2.0,1.0,3.0,2.0,3.0,1.0,6.0,3.0,8.0,5.0,5.0,2.0,2.0,6.0,5.0,GippslandLoddon MalleeNorthern and Western MetropolitanSouthern Metropolitan,GREATER BENDIGO,67.0,0.0,0.0, 2016Total
+313,1.0,3.0,1.0,3.0,0.0,2.0,2.0,2.0,3.0,1.0,5.0,4.0,2.0,0.0,0.0,0.0,0.0,0.0,GippslandLoddon MalleeNorthern and Western MetropolitanSouthern Metropolitan,GREATER BENDIGO,29.0,0.0,0.0, 2018YTD
+314,5.0,12.0,3.0,10.0,4.0,5.0,6.0,10.0,9.0,5.0,10.0,12.0,7.0,4.0,5.0,2.0,6.0,5.0,GippslandLoddon MalleeNorthern and Western MetropolitanSouthern Metropolitan,GREATER BENDIGO,120.0,0.0,0.0, 2018Total
+315,99.0,162.0,115.0,117.0,73.0,59.0,75.0,83.0,102.0,115.0,91.0,75.0,72.0,53.0,54.0,57.0,50.0,114.0,Barwon South WestEastern MetropolitanHumeNorthern and Western MetropolitanSouthern Metropolitan,BOROONDARA,1567.0,1.0,0.0, 2017Total
+316,8.0,3.0,3.0,2.0,2.0,4.0,7.0,5.0,2.0,8.0,5.0,6.0,4.0,4.0,6.0,4.0,6.0,1.0,Barwon South WestEastern MetropolitanHumeNorthern and Western MetropolitanSouthern Metropolitan,BOROONDARA,80.0,0.0,0.0, 2016YTD
+317,9.0,16.0,20.0,22.0,13.0,10.0,21.0,14.0,22.0,25.0,17.0,14.0,16.0,12.0,6.0,11.0,9.0,15.0,Barwon South WestEastern MetropolitanHumeNorthern and Western MetropolitanSouthern Metropolitan,BOROONDARA,273.0,1.0,0.0, 2017YTD
+318,120.0,167.0,124.0,71.0,68.0,77.0,78.0,84.0,82.0,76.0,58.0,52.0,41.0,37.0,25.0,26.0,26.0,52.0,Barwon South WestEastern MetropolitanHumeNorthern and Western MetropolitanSouthern Metropolitan,BOROONDARA,1265.0,1.0,0.0, 2019YTD
+319,19.0,15.0,24.0,37.0,18.0,23.0,31.0,29.0,24.0,21.0,28.0,30.0,13.0,16.0,19.0,18.0,27.0,52.0,Barwon South WestEastern MetropolitanHumeNorthern and Western MetropolitanSouthern Metropolitan,BOROONDARA,444.0,0.0,0.0, 2016Total
+320,4.0,9.0,5.0,6.0,4.0,3.0,5.0,6.0,6.0,13.0,15.0,14.0,9.0,10.0,6.0,2.0,4.0,7.0,Barwon South WestEastern MetropolitanHumeNorthern and Western MetropolitanSouthern Metropolitan,BOROONDARA,128.0,0.0,0.0, 2018YTD
+321,15.0,33.0,16.0,15.0,24.0,25.0,18.0,23.0,23.0,28.0,26.0,24.0,17.0,14.0,13.0,6.0,5.0,10.0,Barwon South WestEastern MetropolitanHumeNorthern and Western MetropolitanSouthern Metropolitan,BOROONDARA,335.0,0.0,0.0, 2018Total
+322,110.0,149.0,95.0,72.0,43.0,34.0,82.0,113.0,92.0,94.0,87.0,77.0,74.0,72.0,65.0,56.0,67.0,127.0,Eastern MetropolitanNorthern and Western MetropolitanSouthern Metropolitan,KINGSTON,1509.0,0.0,0.0, 2017Total
+323,13.0,4.0,5.0,1.0,1.0,7.0,6.0,0.0,4.0,5.0,4.0,7.0,1.0,3.0,3.0,4.0,4.0,2.0,Eastern MetropolitanNorthern and Western MetropolitanSouthern Metropolitan,KINGSTON,74.0,0.0,0.0, 2016YTD
+324,24.0,16.0,13.0,14.0,4.0,9.0,13.0,22.0,16.0,19.0,15.0,15.0,17.0,19.0,18.0,14.0,21.0,27.0,Eastern MetropolitanNorthern and Western MetropolitanSouthern Metropolitan,KINGSTON,296.0,0.0,0.0, 2017YTD
+325,124.0,143.0,83.0,59.0,55.0,63.0,77.0,74.0,79.0,67.0,57.0,44.0,38.0,31.0,35.0,27.0,23.0,30.0,Eastern MetropolitanNorthern and Western MetropolitanSouthern Metropolitan,KINGSTON,1109.0,0.0,0.0, 2019YTD
+326,35.0,32.0,18.0,14.0,12.0,25.0,30.0,21.0,23.0,30.0,19.0,27.0,16.0,19.0,12.0,26.0,22.0,40.0,Eastern MetropolitanNorthern and Western MetropolitanSouthern Metropolitan,KINGSTON,422.0,1.0,0.0, 2016Total
+327,8.0,3.0,4.0,1.0,5.0,8.0,4.0,8.0,11.0,9.0,5.0,8.0,4.0,6.0,5.0,2.0,0.0,2.0,Eastern MetropolitanNorthern and Western MetropolitanSouthern Metropolitan,KINGSTON,93.0,0.0,0.0, 2018YTD
+328,28.0,28.0,20.0,6.0,14.0,25.0,22.0,26.0,37.0,34.0,24.0,23.0,20.0,13.0,10.0,11.0,8.0,14.0,Eastern MetropolitanNorthern and Western MetropolitanSouthern Metropolitan,KINGSTON,363.0,0.0,0.0, 2018Total
+329,100.0,99.0,58.0,51.0,53.0,52.0,74.0,69.0,75.0,76.0,66.0,67.0,69.0,55.0,37.0,34.0,38.0,83.0,Eastern MetropolitanNorthern and Western MetropolitanSouthern Metropolitan,FRANKSTON,1156.0,0.0,0.0, 2017Total
+330,6.0,4.0,4.0,2.0,3.0,4.0,3.0,8.0,7.0,1.0,5.0,7.0,2.0,4.0,0.0,1.0,2.0,0.0,Eastern MetropolitanNorthern and Western MetropolitanSouthern Metropolitan,FRANKSTON,63.0,0.0,0.0, 2016YTD
+331,20.0,10.0,4.0,9.0,9.0,8.0,10.0,10.0,7.0,9.0,8.0,8.0,13.0,12.0,10.0,4.0,13.0,33.0,Eastern MetropolitanNorthern and Western MetropolitanSouthern Metropolitan,FRANKSTON,197.0,0.0,0.0, 2017YTD
+332,124.0,112.0,53.0,38.0,48.0,62.0,64.0,65.0,40.0,42.0,40.0,48.0,47.0,24.0,23.0,15.0,20.0,19.0,Eastern MetropolitanNorthern and Western MetropolitanSouthern Metropolitan,FRANKSTON,884.0,0.0,0.0, 2019YTD
+333,25.0,15.0,16.0,14.0,11.0,12.0,15.0,18.0,21.0,14.0,20.0,19.0,7.0,13.0,9.0,14.0,16.0,33.0,Eastern MetropolitanNorthern and Western MetropolitanSouthern Metropolitan,FRANKSTON,293.0,1.0,0.0, 2016Total
+334,10.0,6.0,0.0,0.0,2.0,5.0,2.0,6.0,2.0,7.0,5.0,4.0,6.0,8.0,7.0,2.0,5.0,2.0,Eastern MetropolitanNorthern and Western MetropolitanSouthern Metropolitan,FRANKSTON,79.0,0.0,0.0, 2018YTD
+335,39.0,33.0,5.0,9.0,18.0,28.0,24.0,26.0,21.0,28.0,16.0,21.0,20.0,19.0,14.0,8.0,8.0,7.0,Eastern MetropolitanNorthern and Western MetropolitanSouthern Metropolitan,FRANKSTON,344.0,0.0,0.0, 2018Total
+336,2.0,0.0,2.0,0.0,0.0,0.0,0.0,1.0,2.0,1.0,0.0,3.0,2.0,1.0,1.0,6.0,3.0,9.0,Grampians,WEST WIMMERA,33.0,0.0,0.0, 2017Total
+337,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Grampians,WEST WIMMERA,0.0,0.0,0.0, 2016YTD
+338,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Grampians,WEST WIMMERA,2.0,0.0,0.0, 2017YTD
+339,1.0,0.0,3.0,2.0,1.0,2.0,3.0,0.0,2.0,1.0,0.0,1.0,1.0,2.0,0.0,5.0,2.0,0.0,Grampians,WEST WIMMERA,26.0,0.0,0.0, 2019YTD
+340,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Grampians,WEST WIMMERA,1.0,0.0,0.0, 2016Total
+341,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Grampians,WEST WIMMERA,0.0,0.0,0.0, 2018YTD
+342,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Grampians,WEST WIMMERA,0.0,0.0,0.0, 2018Total
+343,111.0,186.0,108.0,119.0,61.0,51.0,69.0,82.0,101.0,100.0,86.0,104.0,100.0,89.0,75.0,77.0,55.0,101.0,Northern and Western MetropolitanSouthern Metropolitan,MORNINGTON PENINSULA,1677.0,2.0,0.0, 2017Total
+344,3.0,9.0,5.0,4.0,4.0,4.0,3.0,7.0,5.0,11.0,4.0,6.0,3.0,5.0,3.0,3.0,3.0,5.0,Northern and Western MetropolitanSouthern Metropolitan,MORNINGTON PENINSULA,87.0,0.0,0.0, 2016YTD
+345,7.0,19.0,6.0,28.0,13.0,14.0,18.0,15.0,21.0,16.0,13.0,21.0,20.0,17.0,12.0,10.0,6.0,8.0,Northern and Western MetropolitanSouthern Metropolitan,MORNINGTON PENINSULA,266.0,2.0,0.0, 2017YTD
+346,91.0,109.0,56.0,54.0,60.0,66.0,57.0,50.0,57.0,59.0,52.0,55.0,70.0,52.0,51.0,43.0,45.0,84.0,Northern and Western MetropolitanSouthern Metropolitan,MORNINGTON PENINSULA,1111.0,0.0,0.0, 2019YTD
+347,19.0,25.0,28.0,27.0,14.0,16.0,17.0,22.0,28.0,32.0,27.0,26.0,22.0,29.0,28.0,24.0,25.0,39.0,Northern and Western MetropolitanSouthern Metropolitan,MORNINGTON PENINSULA,450.0,2.0,0.0, 2016Total
+348,9.0,13.0,2.0,2.0,3.0,2.0,5.0,4.0,9.0,4.0,6.0,3.0,8.0,6.0,4.0,8.0,4.0,3.0,Northern and Western MetropolitanSouthern Metropolitan,MORNINGTON PENINSULA,95.0,0.0,0.0, 2018YTD
+349,35.0,38.0,20.0,17.0,17.0,23.0,18.0,32.0,34.0,25.0,30.0,14.0,37.0,25.0,21.0,19.0,15.0,23.0,Northern and Western MetropolitanSouthern Metropolitan,MORNINGTON PENINSULA,443.0,0.0,0.0, 2018Total
+350,122.0,136.0,64.0,71.0,65.0,52.0,86.0,100.0,84.0,104.0,90.0,87.0,79.0,59.0,61.0,50.0,49.0,108.0,Eastern MetropolitanGippslandGrampiansSouthern Metropolitan,KNOX,1468.0,1.0,0.0, 2017Total
+351,2.0,1.0,0.0,1.0,5.0,2.0,4.0,1.0,3.0,5.0,2.0,7.0,8.0,4.0,2.0,5.0,3.0,14.0,Eastern MetropolitanGippslandGrampiansSouthern Metropolitan,KNOX,69.0,0.0,0.0, 2016YTD
+352,20.0,21.0,7.0,11.0,11.0,10.0,19.0,19.0,14.0,22.0,16.0,16.0,12.0,12.0,14.0,14.0,14.0,33.0,Eastern MetropolitanGippslandGrampiansSouthern Metropolitan,KNOX,286.0,1.0,0.0, 2017YTD
+353,154.0,141.0,74.0,56.0,71.0,67.0,88.0,98.0,72.0,49.0,40.0,60.0,66.0,54.0,29.0,24.0,30.0,45.0,Eastern MetropolitanGippslandGrampiansSouthern Metropolitan,KNOX,1218.0,0.0,0.0, 2019YTD
+354,14.0,15.0,10.0,12.0,15.0,14.0,19.0,14.0,20.0,20.0,24.0,27.0,21.0,24.0,15.0,19.0,22.0,55.0,Eastern MetropolitanGippslandGrampiansSouthern Metropolitan,KNOX,361.0,1.0,0.0, 2016Total
+355,7.0,1.0,0.0,3.0,7.0,4.0,2.0,6.0,5.0,5.0,8.0,9.0,6.0,7.0,6.0,3.0,4.0,2.0,Eastern MetropolitanGippslandGrampiansSouthern Metropolitan,KNOX,85.0,0.0,0.0, 2018YTD
+356,29.0,18.0,10.0,10.0,24.0,14.0,13.0,21.0,18.0,18.0,25.0,24.0,22.0,21.0,13.0,14.0,14.0,15.0,Eastern MetropolitanGippslandGrampiansSouthern Metropolitan,KNOX,323.0,0.0,0.0, 2018Total
+357,25.0,22.0,13.0,23.0,25.0,14.0,17.0,10.0,15.0,15.0,16.0,18.0,10.0,5.0,17.0,14.0,12.0,13.0,Hume,WODONGA,284.0,0.0,0.0, 2017Total
+358,4.0,1.0,1.0,1.0,0.0,2.0,0.0,1.0,0.0,2.0,2.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,Hume,WODONGA,17.0,0.0,0.0, 2016YTD
+359,5.0,1.0,0.0,4.0,4.0,0.0,0.0,2.0,2.0,3.0,2.0,0.0,0.0,3.0,0.0,0.0,4.0,0.0,Hume,WODONGA,30.0,0.0,0.0, 2017YTD
+360,42.0,24.0,11.0,15.0,34.0,32.0,24.0,12.0,12.0,11.0,14.0,23.0,19.0,11.0,12.0,12.0,11.0,29.0,Hume,WODONGA,348.0,0.0,0.0, 2019YTD
+361,11.0,9.0,6.0,6.0,7.0,12.0,10.0,8.0,5.0,8.0,5.0,6.0,7.0,6.0,4.0,3.0,3.0,5.0,Hume,WODONGA,122.0,1.0,0.0, 2016Total
+362,2.0,1.0,2.0,1.0,0.0,2.0,1.0,1.0,2.0,1.0,0.0,1.0,6.0,1.0,1.0,0.0,1.0,0.0,Hume,WODONGA,23.0,0.0,0.0, 2018YTD
+363,8.0,14.0,13.0,4.0,8.0,7.0,9.0,9.0,7.0,6.0,7.0,8.0,13.0,3.0,2.0,1.0,2.0,2.0,Hume,WODONGA,123.0,0.0,0.0, 2018Total
+364,16.0,11.0,7.0,10.0,9.0,9.0,8.0,12.0,9.0,14.0,11.0,17.0,12.0,11.0,5.0,12.0,8.0,12.0,Barwon South WestNorthern and Western MetropolitanSouthern Metropolitan,CORANGAMITE,193.0,0.0,0.0, 2017Total
+365,1.0,2.0,2.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,Barwon South WestNorthern and Western MetropolitanSouthern Metropolitan,CORANGAMITE,9.0,0.0,0.0, 2016YTD
+366,3.0,2.0,0.0,1.0,1.0,1.0,2.0,3.0,4.0,1.0,3.0,2.0,2.0,1.0,0.0,0.0,0.0,0.0,Barwon South WestNorthern and Western MetropolitanSouthern Metropolitan,CORANGAMITE,26.0,0.0,0.0, 2017YTD
+367,8.0,23.0,14.0,8.0,6.0,3.0,5.0,6.0,4.0,4.0,9.0,5.0,5.0,9.0,5.0,7.0,0.0,0.0,Barwon South WestNorthern and Western MetropolitanSouthern Metropolitan,CORANGAMITE,121.0,0.0,0.0, 2019YTD
+368,6.0,8.0,2.0,7.0,5.0,4.0,8.0,4.0,3.0,3.0,11.0,4.0,6.0,3.0,2.0,6.0,6.0,2.0,Barwon South WestNorthern and Western MetropolitanSouthern Metropolitan,CORANGAMITE,90.0,0.0,0.0, 2016Total
+369,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,2.0,0.0,0.0,0.0,Barwon South WestNorthern and Western MetropolitanSouthern Metropolitan,CORANGAMITE,9.0,0.0,0.0, 2018YTD
+370,1.0,2.0,0.0,0.0,1.0,1.0,0.0,1.0,2.0,0.0,2.0,1.0,1.0,2.0,2.0,0.0,0.0,0.0,Barwon South WestNorthern and Western MetropolitanSouthern Metropolitan,CORANGAMITE,16.0,0.0,0.0, 2018Total
+371,139.0,117.0,80.0,121.0,72.0,61.0,97.0,99.0,94.0,94.0,79.0,78.0,80.0,81.0,70.0,60.0,51.0,68.0,Barwon South WestEastern MetropolitanLoddon MalleeNorthern and Western Metropolitan,GREATER GEELONG,1541.0,0.0,0.0, 2017Total
+372,16.0,3.0,2.0,4.0,8.0,6.0,9.0,7.0,4.0,6.0,5.0,4.0,7.0,5.0,2.0,1.0,2.0,1.0,Barwon South WestEastern MetropolitanLoddon MalleeNorthern and Western Metropolitan,GREATER GEELONG,92.0,0.0,0.0, 2016YTD
+373,24.0,19.0,7.0,28.0,17.0,13.0,13.0,13.0,20.0,22.0,23.0,12.0,13.0,14.0,10.0,7.0,12.0,10.0,Barwon South WestEastern MetropolitanLoddon MalleeNorthern and Western Metropolitan,GREATER GEELONG,277.0,0.0,0.0, 2017YTD
+374,121.0,138.0,62.0,63.0,111.0,101.0,98.0,86.0,74.0,67.0,65.0,84.0,89.0,60.0,69.0,52.0,53.0,98.0,Barwon South WestEastern MetropolitanLoddon MalleeNorthern and Western Metropolitan,GREATER GEELONG,1491.0,0.0,0.0, 2019YTD
+375,47.0,16.0,12.0,15.0,33.0,29.0,31.0,34.0,21.0,25.0,27.0,17.0,33.0,28.0,11.0,13.0,18.0,28.0,Barwon South WestEastern MetropolitanLoddon MalleeNorthern and Western Metropolitan,GREATER GEELONG,439.0,1.0,0.0, 2016Total
+376,5.0,5.0,4.0,4.0,5.0,4.0,6.0,6.0,3.0,8.0,9.0,5.0,10.0,6.0,5.0,6.0,4.0,3.0,Barwon South WestEastern MetropolitanLoddon MalleeNorthern and Western Metropolitan,GREATER GEELONG,98.0,0.0,0.0, 2018YTD
+377,27.0,40.0,11.0,17.0,18.0,21.0,29.0,33.0,23.0,37.0,28.0,22.0,34.0,24.0,16.0,19.0,9.0,19.0,Barwon South WestEastern MetropolitanLoddon MalleeNorthern and Western Metropolitan,GREATER GEELONG,427.0,0.0,0.0, 2018Total
+378,1.0,0.0,0.0,0.0,1.0,2.0,2.0,6.0,1.0,4.0,1.0,3.0,4.0,2.0,4.0,6.0,3.0,5.0,GrampiansLoddon Mallee,CENTRAL GOLDFIELDS,45.0,0.0,0.0, 2017Total
+379,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,GrampiansLoddon Mallee,CENTRAL GOLDFIELDS,3.0,0.0,0.0, 2016YTD
+380,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,0.0,0.0,0.0,0.0,GrampiansLoddon Mallee,CENTRAL GOLDFIELDS,5.0,0.0,0.0, 2017YTD
+381,2.0,0.0,0.0,2.0,0.0,3.0,1.0,2.0,0.0,1.0,1.0,1.0,1.0,2.0,2.0,1.0,2.0,10.0,GrampiansLoddon Mallee,CENTRAL GOLDFIELDS,31.0,0.0,0.0, 2019YTD
+382,0.0,0.0,0.0,2.0,1.0,1.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,2.0,5.0,0.0,0.0,3.0,GrampiansLoddon Mallee,CENTRAL GOLDFIELDS,18.0,0.0,0.0, 2016Total
+383,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,GrampiansLoddon Mallee,CENTRAL GOLDFIELDS,2.0,0.0,0.0, 2018YTD
+384,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,GrampiansLoddon Mallee,CENTRAL GOLDFIELDS,4.0,0.0,0.0, 2018Total
+385,44.0,33.0,14.0,36.0,66.0,57.0,81.0,52.0,35.0,25.0,38.0,27.0,29.0,23.0,19.0,19.0,20.0,32.0,Eastern MetropolitanGippslandNorthern and Western MetropolitanSouthern Metropolitan,MELBOURNE,650.0,0.0,0.0, 2017Total
+386,4.0,1.0,1.0,4.0,7.0,11.0,10.0,8.0,3.0,7.0,3.0,0.0,3.0,2.0,0.0,1.0,0.0,1.0,Eastern MetropolitanGippslandNorthern and Western MetropolitanSouthern Metropolitan,MELBOURNE,66.0,0.0,0.0, 2016YTD
+387,8.0,2.0,2.0,8.0,21.0,13.0,22.0,17.0,7.0,8.0,5.0,2.0,5.0,2.0,4.0,7.0,3.0,2.0,Eastern MetropolitanGippslandNorthern and Western MetropolitanSouthern Metropolitan,MELBOURNE,138.0,0.0,0.0, 2017YTD
+388,35.0,33.0,14.0,22.0,71.0,104.0,81.0,55.0,43.0,27.0,19.0,25.0,20.0,21.0,15.0,10.0,10.0,6.0,Eastern MetropolitanGippslandNorthern and Western MetropolitanSouthern Metropolitan,MELBOURNE,611.0,0.0,0.0, 2019YTD
+389,9.0,5.0,2.0,16.0,24.0,43.0,29.0,24.0,11.0,17.0,7.0,9.0,14.0,7.0,7.0,3.0,5.0,6.0,Eastern MetropolitanGippslandNorthern and Western MetropolitanSouthern Metropolitan,MELBOURNE,238.0,0.0,0.0, 2016Total
+390,2.0,4.0,0.0,3.0,3.0,13.0,15.0,7.0,2.0,7.0,3.0,6.0,6.0,2.0,2.0,1.0,0.0,2.0,Eastern MetropolitanGippslandNorthern and Western MetropolitanSouthern Metropolitan,MELBOURNE,78.0,0.0,0.0, 2018YTD
+391,4.0,15.0,1.0,9.0,21.0,30.0,33.0,22.0,6.0,17.0,15.0,11.0,14.0,3.0,8.0,5.0,0.0,4.0,Eastern MetropolitanGippslandNorthern and Western MetropolitanSouthern Metropolitan,MELBOURNE,218.0,0.0,0.0, 2018Total
+392,82.0,88.0,53.0,54.0,32.0,34.0,66.0,86.0,63.0,52.0,47.0,47.0,52.0,47.0,30.0,32.0,42.0,74.0,Eastern MetropolitanNorthern and Western MetropolitanSouthern Metropolitan,MAROONDAH,981.0,0.0,0.0, 2017Total
+393,1.0,3.0,1.0,0.0,3.0,3.0,1.0,1.0,0.0,4.0,4.0,5.0,2.0,1.0,1.0,1.0,1.0,0.0,Eastern MetropolitanNorthern and Western MetropolitanSouthern Metropolitan,MAROONDAH,33.0,1.0,0.0, 2016YTD
+394,14.0,17.0,6.0,7.0,6.0,10.0,12.0,15.0,11.0,7.0,7.0,9.0,9.0,4.0,9.0,7.0,8.0,8.0,Eastern MetropolitanNorthern and Western MetropolitanSouthern Metropolitan,MAROONDAH,166.0,0.0,0.0, 2017YTD
+395,84.0,92.0,55.0,30.0,35.0,38.0,54.0,48.0,28.0,36.0,29.0,45.0,40.0,32.0,32.0,22.0,15.0,21.0,Eastern MetropolitanNorthern and Western MetropolitanSouthern Metropolitan,MAROONDAH,736.0,0.0,0.0, 2019YTD
+396,9.0,12.0,9.0,8.0,12.0,13.0,11.0,9.0,11.0,15.0,17.0,15.0,16.0,8.0,12.0,10.0,16.0,27.0,Eastern MetropolitanNorthern and Western MetropolitanSouthern Metropolitan,MAROONDAH,231.0,1.0,0.0, 2016Total
+397,4.0,4.0,3.0,1.0,4.0,0.0,3.0,5.0,9.0,6.0,3.0,9.0,5.0,1.0,5.0,7.0,5.0,5.0,Eastern MetropolitanNorthern and Western MetropolitanSouthern Metropolitan,MAROONDAH,79.0,0.0,0.0, 2018YTD
+398,11.0,17.0,7.0,6.0,9.0,9.0,16.0,12.0,16.0,15.0,9.0,18.0,12.0,5.0,8.0,11.0,12.0,8.0,Eastern MetropolitanNorthern and Western MetropolitanSouthern Metropolitan,MAROONDAH,201.0,0.0,0.0, 2018Total
+399,172.0,171.0,81.0,65.0,68.0,63.0,103.0,108.0,91.0,94.0,85.0,90.0,75.0,47.0,54.0,46.0,62.0,70.0,Barwon South WestEastern MetropolitanHumeLoddon MalleeNorthern and Western MetropolitanSouthern Metropolitan,WHITTLESEA,1546.0,1.0,0.0, 2017Total
+400,10.0,4.0,0.0,2.0,3.0,9.0,4.0,2.0,2.0,4.0,4.0,5.0,2.0,1.0,3.0,2.0,2.0,0.0,Barwon South WestEastern MetropolitanHumeLoddon MalleeNorthern and Western MetropolitanSouthern Metropolitan,WHITTLESEA,59.0,0.0,0.0, 2016YTD
+401,11.0,14.0,5.0,5.0,11.0,9.0,12.0,18.0,13.0,8.0,8.0,13.0,6.0,6.0,7.0,7.0,8.0,7.0,Barwon South WestEastern MetropolitanHumeLoddon MalleeNorthern and Western MetropolitanSouthern Metropolitan,WHITTLESEA,169.0,1.0,0.0, 2017YTD
+402,215.0,209.0,113.0,72.0,55.0,63.0,110.0,103.0,93.0,54.0,43.0,65.0,54.0,34.0,33.0,22.0,34.0,37.0,Barwon South WestEastern MetropolitanHumeLoddon MalleeNorthern and Western MetropolitanSouthern Metropolitan,WHITTLESEA,1409.0,0.0,0.0, 2019YTD
+403,28.0,13.0,15.0,9.0,12.0,23.0,24.0,26.0,17.0,15.0,22.0,23.0,11.0,15.0,17.0,12.0,11.0,6.0,Barwon South WestEastern MetropolitanHumeLoddon MalleeNorthern and Western MetropolitanSouthern Metropolitan,WHITTLESEA,299.0,0.0,0.0, 2016Total
+404,9.0,4.0,3.0,2.0,4.0,3.0,8.0,6.0,2.0,2.0,6.0,7.0,4.0,6.0,2.0,5.0,1.0,0.0,Barwon South WestEastern MetropolitanHumeLoddon MalleeNorthern and Western MetropolitanSouthern Metropolitan,WHITTLESEA,74.0,0.0,0.0, 2018YTD
+405,42.0,21.0,11.0,11.0,16.0,20.0,34.0,19.0,17.0,16.0,14.0,18.0,21.0,15.0,7.0,7.0,5.0,4.0,Barwon South WestEastern MetropolitanHumeLoddon MalleeNorthern and Western MetropolitanSouthern Metropolitan,WHITTLESEA,298.0,0.0,0.0, 2018Total
+406,103.0,114.0,97.0,62.0,68.0,59.0,83.0,93.0,101.0,90.0,89.0,100.0,89.0,87.0,64.0,57.0,53.0,97.0,Eastern MetropolitanGippslandHumeLoddon MalleeNorthern and Western MetropolitanSouthern Metropolitan,YARRA RANGES,1506.0,0.0,0.0, 2017Total
+407,4.0,3.0,2.0,4.0,2.0,2.0,6.0,6.0,5.0,4.0,6.0,4.0,3.0,2.0,1.0,4.0,1.0,2.0,Eastern MetropolitanGippslandHumeLoddon MalleeNorthern and Western MetropolitanSouthern Metropolitan,YARRA RANGES,62.0,1.0,0.0, 2016YTD
+408,16.0,16.0,5.0,8.0,13.0,7.0,15.0,17.0,21.0,17.0,9.0,14.0,12.0,13.0,12.0,12.0,9.0,9.0,Eastern MetropolitanGippslandHumeLoddon MalleeNorthern and Western MetropolitanSouthern Metropolitan,YARRA RANGES,225.0,0.0,0.0, 2017YTD
+409,106.0,142.0,72.0,44.0,61.0,60.0,88.0,67.0,52.0,58.0,60.0,59.0,48.0,40.0,41.0,22.0,24.0,58.0,Eastern MetropolitanGippslandHumeLoddon MalleeNorthern and Western MetropolitanSouthern Metropolitan,YARRA RANGES,1102.0,0.0,0.0, 2019YTD
+410,21.0,13.0,15.0,15.0,18.0,17.0,18.0,19.0,23.0,18.0,35.0,21.0,26.0,26.0,28.0,26.0,20.0,32.0,Eastern MetropolitanGippslandHumeLoddon MalleeNorthern and Western MetropolitanSouthern Metropolitan,YARRA RANGES,393.0,2.0,0.0, 2016Total
+411,7.0,5.0,2.0,1.0,3.0,4.0,5.0,5.0,9.0,8.0,6.0,10.0,3.0,3.0,5.0,5.0,2.0,6.0,Eastern MetropolitanGippslandHumeLoddon MalleeNorthern and Western MetropolitanSouthern Metropolitan,YARRA RANGES,89.0,0.0,0.0, 2018YTD
+412,29.0,30.0,9.0,5.0,9.0,13.0,15.0,18.0,22.0,21.0,19.0,21.0,10.0,12.0,12.0,12.0,7.0,19.0,Eastern MetropolitanGippslandHumeLoddon MalleeNorthern and Western MetropolitanSouthern Metropolitan,YARRA RANGES,283.0,0.0,0.0, 2018Total
+413,2.0,2.0,2.0,4.0,4.0,3.0,1.0,1.0,4.0,5.0,5.0,5.0,2.0,7.0,4.0,5.0,5.0,6.0,Hume,MURRINDINDI,67.0,0.0,0.0, 2017Total
+414,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,2.0,0.0,0.0,0.0,0.0,Hume,MURRINDINDI,5.0,0.0,0.0, 2016YTD
+415,1.0,1.0,0.0,2.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,0.0,Hume,MURRINDINDI,12.0,0.0,0.0, 2017YTD
+416,4.0,8.0,9.0,6.0,5.0,5.0,3.0,1.0,4.0,6.0,4.0,2.0,2.0,1.0,3.0,3.0,1.0,3.0,Hume,MURRINDINDI,70.0,0.0,0.0, 2019YTD
+417,1.0,1.0,0.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,3.0,6.0,1.0,3.0,2.0,1.0,Hume,MURRINDINDI,26.0,0.0,0.0, 2016Total
+418,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,2.0,0.0,0.0,1.0,0.0,Hume,MURRINDINDI,7.0,0.0,0.0, 2018YTD
+419,3.0,2.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,1.0,1.0,1.0,0.0,3.0,0.0,0.0,2.0,1.0,Hume,MURRINDINDI,17.0,0.0,0.0, 2018Total
+420,2.0,3.0,3.0,1.0,3.0,4.0,0.0,1.0,3.0,2.0,2.0,1.0,2.0,1.0,0.0,1.0,1.0,4.0,Grampians,HORSHAM,34.0,0.0,0.0, 2017Total
+421,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Grampians,HORSHAM,0.0,0.0,0.0, 2016YTD
+422,1.0,0.0,1.0,0.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,Grampians,HORSHAM,8.0,0.0,0.0, 2017YTD
+423,4.0,3.0,2.0,4.0,5.0,1.0,2.0,3.0,1.0,1.0,3.0,3.0,4.0,1.0,3.0,2.0,7.0,7.0,Grampians,HORSHAM,56.0,0.0,0.0, 2019YTD
+424,2.0,1.0,0.0,2.0,0.0,1.0,4.0,2.0,0.0,1.0,1.0,0.0,1.0,2.0,0.0,0.0,0.0,3.0,Grampians,HORSHAM,20.0,0.0,0.0, 2016Total
+425,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,2.0,Grampians,HORSHAM,7.0,0.0,0.0, 2018YTD
+426,1.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,1.0,3.0,Grampians,HORSHAM,14.0,0.0,0.0, 2018Total
+427,5.0,19.0,3.0,3.0,10.0,5.0,3.0,9.0,9.0,8.0,10.0,9.0,9.0,4.0,13.0,6.0,9.0,13.0,Grampians,ARARAT,147.0,0.0,0.0, 2017Total
+428,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Grampians,ARARAT,0.0,0.0,0.0, 2016YTD
+429,1.0,1.0,0.0,1.0,0.0,1.0,1.0,0.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,0.0,0.0,2.0,Grampians,ARARAT,13.0,0.0,0.0, 2017YTD
+430,2.0,0.0,0.0,1.0,0.0,3.0,2.0,1.0,2.0,2.0,0.0,1.0,0.0,5.0,1.0,0.0,0.0,2.0,Grampians,ARARAT,22.0,0.0,0.0, 2019YTD
+431,1.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,1.0,0.0,2.0,2.0,1.0,1.0,0.0,0.0,Grampians,ARARAT,12.0,0.0,0.0, 2016Total
+432,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Grampians,ARARAT,1.0,0.0,0.0, 2018YTD
+433,0.0,0.0,0.0,0.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Grampians,ARARAT,4.0,0.0,0.0, 2018Total
+434,17.0,24.0,8.0,22.0,26.0,14.0,10.0,21.0,13.0,11.0,15.0,17.0,11.0,16.0,19.0,12.0,9.0,10.0,Hume,MITCHELL,275.0,0.0,0.0, 2017Total
+435,1.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,1.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Hume,MITCHELL,7.0,0.0,0.0, 2016YTD
+436,1.0,1.0,0.0,2.0,4.0,4.0,1.0,3.0,0.0,0.0,3.0,3.0,1.0,2.0,2.0,4.0,0.0,1.0,Hume,MITCHELL,32.0,0.0,0.0, 2017YTD
+437,19.0,13.0,7.0,13.0,11.0,15.0,13.0,15.0,12.0,8.0,9.0,10.0,10.0,5.0,3.0,2.0,0.0,2.0,Hume,MITCHELL,167.0,0.0,0.0, 2019YTD
+438,4.0,3.0,2.0,3.0,4.0,7.0,2.0,2.0,2.0,3.0,3.0,1.0,2.0,1.0,2.0,2.0,0.0,1.0,Hume,MITCHELL,44.0,0.0,0.0, 2016Total
+439,2.0,5.0,0.0,1.0,0.0,2.0,0.0,0.0,1.0,0.0,4.0,2.0,1.0,1.0,0.0,0.0,0.0,1.0,Hume,MITCHELL,20.0,0.0,0.0, 2018YTD
+440,2.0,8.0,2.0,2.0,2.0,3.0,1.0,3.0,3.0,3.0,6.0,2.0,2.0,4.0,1.0,0.0,0.0,1.0,Hume,MITCHELL,45.0,0.0,0.0, 2018Total
+441,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,Hume,UNINCORPORATED VI,3.0,0.0,0.0, 2017Total
+442,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Hume,UNINCORPORATED VI,1.0,0.0,0.0, 2016YTD
+443,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Hume,UNINCORPORATED VI,1.0,0.0,0.0, 2017YTD
+444,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Hume,UNINCORPORATED VI,1.0,0.0,0.0, 2019YTD
+445,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Hume,UNINCORPORATED VI,2.0,0.0,0.0, 2016Total
+446,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Hume,UNINCORPORATED VI,0.0,0.0,0.0, 2018YTD
+447,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Hume,UNINCORPORATED VI,0.0,0.0,0.0, 2018Total
+448,169.0,176.0,108.0,74.0,94.0,84.0,103.0,101.0,95.0,105.0,89.0,73.0,61.0,62.0,45.0,43.0,33.0,39.0,Eastern MetropolitanLoddon MalleeNorthern and Western Metropolitan,HUME,1557.0,3.0,0.0, 2017Total
+449,9.0,3.0,4.0,8.0,6.0,9.0,10.0,10.0,8.0,3.0,8.0,6.0,3.0,3.0,1.0,1.0,1.0,1.0,Eastern MetropolitanLoddon MalleeNorthern and Western Metropolitan,HUME,94.0,0.0,0.0, 2016YTD
+450,22.0,22.0,11.0,8.0,22.0,16.0,23.0,20.0,18.0,24.0,22.0,12.0,10.0,13.0,8.0,6.0,5.0,6.0,Eastern MetropolitanLoddon MalleeNorthern and Western Metropolitan,HUME,268.0,0.0,0.0, 2017YTD
+451,221.0,241.0,102.0,55.0,83.0,111.0,125.0,104.0,72.0,62.0,65.0,70.0,43.0,46.0,35.0,27.0,27.0,35.0,Eastern MetropolitanLoddon MalleeNorthern and Western Metropolitan,HUME,1524.0,0.0,0.0, 2019YTD
+452,34.0,22.0,14.0,31.0,22.0,40.0,33.0,30.0,34.0,24.0,30.0,28.0,17.0,22.0,11.0,17.0,16.0,16.0,Eastern MetropolitanLoddon MalleeNorthern and Western Metropolitan,HUME,442.0,1.0,0.0, 2016Total
+453,7.0,3.0,2.0,2.0,4.0,5.0,5.0,8.0,6.0,6.0,3.0,14.0,4.0,3.0,4.0,1.0,2.0,1.0,Eastern MetropolitanLoddon MalleeNorthern and Western Metropolitan,HUME,80.0,0.0,0.0, 2018YTD
+454,37.0,27.0,10.0,14.0,17.0,22.0,23.0,30.0,24.0,21.0,25.0,25.0,18.0,18.0,13.0,6.0,11.0,12.0,Eastern MetropolitanLoddon MalleeNorthern and Western Metropolitan,HUME,353.0,0.0,0.0, 2018Total
+455,0.0,1.0,2.0,1.0,1.0,2.0,2.0,1.0,3.0,2.0,1.0,1.0,1.0,3.0,3.0,0.0,4.0,3.0,Loddon Mallee,LODDON,31.0,0.0,0.0, 2017Total
+456,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Loddon Mallee,LODDON,0.0,0.0,0.0, 2016YTD
+457,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,Loddon Mallee,LODDON,2.0,0.0,0.0, 2017YTD
+458,0.0,0.0,0.0,2.0,0.0,1.0,2.0,1.0,0.0,0.0,2.0,0.0,2.0,0.0,0.0,1.0,1.0,3.0,Loddon Mallee,LODDON,15.0,0.0,0.0, 2019YTD
+459,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,Loddon Mallee,LODDON,3.0,0.0,0.0, 2016Total
+460,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,Loddon Mallee,LODDON,3.0,0.0,0.0, 2018YTD
+461,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,Loddon Mallee,LODDON,8.0,0.0,0.0, 2018Total
+462,3940.0,4648.0,2739.0,2549.0,2126.0,1946.0,2660.0,3075.0,2957.0,2953.0,2630.0,2707.0,2455.0,2165.0,1918.0,1800.0,1860.0,3059.0,Victorian Total,TOTA,48200.0,13.0,0.0, 2017Total
+463,280.0,125.0,75.0,106.0,150.0,153.0,196.0,208.0,168.0,180.0,166.0,156.0,142.0,112.0,80.0,82.0,63.0,87.0,Victorian Total,TOTA,2532.0,3.0,0.0, 2016YTD
+464,611.0,533.0,292.0,388.0,378.0,375.0,555.0,545.0,493.0,510.0,454.0,447.0,452.0,380.0,335.0,335.0,372.0,498.0,Victorian Total,TOTA,7962.0,9.0,0.0, 2017YTD
+465,4469.0,4731.0,2533.0,1946.0,2361.0,2704.0,3182.0,2928.0,2196.0,1938.0,1797.0,1891.0,1739.0,1397.0,1287.0,1065.0,1088.0,1616.0,Victorian Total,TOTA,40873.0,5.0,0.0, 2019YTD
+466,871.0,606.0,495.0,649.0,650.0,733.0,817.0,757.0,709.0,711.0,730.0,723.0,671.0,630.0,579.0,603.0,639.0,1182.0,Victorian Total,TOTA,12784.0,29.0,0.0, 2016Total
+467,260.0,217.0,86.0,92.0,121.0,157.0,168.0,214.0,217.0,233.0,222.0,237.0,195.0,176.0,139.0,107.0,86.0,88.0,Victorian Total,TOTA,3015.0,0.0,0.0, 2018YTD
+468,1067.0,1126.0,424.0,347.0,535.0,689.0,799.0,923.0,791.0,810.0,716.0,698.0,662.0,523.0,440.0,374.0,295.0,388.0,Victorian Total,TOTA,11607.0,0.0,0.0, 2018Total
+469,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Southern Metropolitan,UNKNOW,0.0,0.0,0.0, 2017Total
+470,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Southern Metropolitan,UNKNOW,0.0,0.0,0.0, 2016YTD
+471,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Southern Metropolitan,UNKNOW,0.0,0.0,0.0, 2017YTD
+472,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Southern Metropolitan,UNKNOW,1.0,0.0,0.0, 2019YTD
+473,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Southern Metropolitan,UNKNOW,0.0,0.0,0.0, 2016Total
+474,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Southern Metropolitan,UNKNOW,0.0,0.0,0.0, 2018YTD
+475,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Southern Metropolitan,UNKNOW,0.0,0.0,0.0, 2018Total
+476,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Southern Metropolitan,BRIGHTON,0.0,0.0,0.0, 2017Total
+477,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Southern Metropolitan,BRIGHTON,0.0,0.0,0.0, 2016YTD
+478,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Southern Metropolitan,BRIGHTON,0.0,0.0,0.0, 2017YTD
+479,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Southern Metropolitan,BRIGHTON,0.0,0.0,0.0, 2019YTD
+480,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Southern Metropolitan,BRIGHTON,1.0,0.0,0.0, 2016Total
+481,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Southern Metropolitan,BRIGHTON,0.0,0.0,0.0, 2018YTD
+482,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Southern Metropolitan,BRIGHTON,0.0,0.0,0.0, 2018Total
+483,3.0,4.0,0.0,2.0,0.0,4.0,2.0,2.0,0.0,2.0,0.0,1.0,7.0,3.0,5.0,1.0,1.0,3.0,Loddon Mallee,SWAN HILL,40.0,0.0,0.0, 2017Total
+484,0.0,1.0,0.0,2.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,2.0,0.0,1.0,0.0,0.0,0.0,Loddon Mallee,SWAN HILL,9.0,0.0,0.0, 2016YTD
+485,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,Loddon Mallee,SWAN HILL,4.0,0.0,0.0, 2017YTD
+486,6.0,8.0,3.0,3.0,8.0,5.0,5.0,4.0,2.0,5.0,3.0,4.0,5.0,5.0,4.0,2.0,8.0,11.0,Loddon Mallee,SWAN HILL,91.0,0.0,0.0, 2019YTD
+487,1.0,1.0,0.0,3.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,2.0,2.0,1.0,1.0,0.0,1.0,1.0,Loddon Mallee,SWAN HILL,16.0,0.0,0.0, 2016Total
+488,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,2.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,Loddon Mallee,SWAN HILL,7.0,0.0,0.0, 2018YTD
+489,5.0,6.0,3.0,0.0,4.0,4.0,4.0,4.0,7.0,8.0,6.0,8.0,8.0,3.0,2.0,2.0,0.0,8.0,Loddon Mallee,SWAN HILL,82.0,0.0,0.0, 2018Total
+490,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,2.0,0.0,0.0,0.0,Grampians,HINDMARSH,5.0,0.0,0.0, 2017Total
+491,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Grampians,HINDMARSH,0.0,0.0,0.0, 2016YTD
+492,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Grampians,HINDMARSH,1.0,0.0,0.0, 2017YTD
+493,0.0,2.0,0.0,1.0,0.0,1.0,2.0,1.0,0.0,0.0,2.0,3.0,1.0,1.0,1.0,2.0,0.0,2.0,Grampians,HINDMARSH,19.0,0.0,0.0, 2019YTD
+494,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,Grampians,HINDMARSH,4.0,0.0,0.0, 2016Total
+495,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,Grampians,HINDMARSH,3.0,0.0,0.0, 2018YTD
+496,1.0,0.0,0.0,0.0,0.0,0.0,2.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,Grampians,HINDMARSH,7.0,0.0,0.0, 2018Total
+497,93.0,128.0,83.0,59.0,54.0,45.0,90.0,67.0,75.0,82.0,66.0,67.0,50.0,41.0,50.0,49.0,72.0,112.0,Eastern MetropolitanGippslandGrampiansNorthern and Western MetropolitanSouthern Metropolitan,WHITEHORSE,1283.0,0.0,0.0, 2017Total
+498,2.0,1.0,1.0,3.0,3.0,1.0,2.0,5.0,2.0,5.0,4.0,3.0,2.0,1.0,1.0,3.0,1.0,1.0,Eastern MetropolitanGippslandGrampiansNorthern and Western MetropolitanSouthern Metropolitan,WHITEHORSE,41.0,0.0,0.0, 2016YTD
+499,19.0,22.0,13.0,11.0,13.0,12.0,29.0,15.0,26.0,17.0,16.0,7.0,11.0,6.0,13.0,14.0,20.0,28.0,Eastern MetropolitanGippslandGrampiansNorthern and Western MetropolitanSouthern Metropolitan,WHITEHORSE,292.0,0.0,0.0, 2017YTD
+500,108.0,125.0,74.0,45.0,73.0,69.0,85.0,90.0,62.0,54.0,57.0,42.0,31.0,28.0,36.0,36.0,45.0,64.0,Eastern MetropolitanGippslandGrampiansNorthern and Western MetropolitanSouthern Metropolitan,WHITEHORSE,1124.0,0.0,0.0, 2019YTD
+501,16.0,17.0,7.0,12.0,13.0,8.0,17.0,14.0,15.0,16.0,13.0,23.0,22.0,14.0,25.0,27.0,22.0,61.0,Eastern MetropolitanGippslandGrampiansNorthern and Western MetropolitanSouthern Metropolitan,WHITEHORSE,343.0,1.0,0.0, 2016Total
+502,7.0,6.0,3.0,2.0,11.0,5.0,3.0,7.0,5.0,8.0,8.0,6.0,0.0,3.0,5.0,3.0,3.0,8.0,Eastern MetropolitanGippslandGrampiansNorthern and Western MetropolitanSouthern Metropolitan,WHITEHORSE,93.0,0.0,0.0, 2018YTD
+503,24.0,21.0,10.0,6.0,24.0,18.0,18.0,31.0,15.0,16.0,18.0,19.0,4.0,10.0,12.0,11.0,10.0,12.0,Eastern MetropolitanGippslandGrampiansNorthern and Western MetropolitanSouthern Metropolitan,WHITEHORSE,279.0,0.0,0.0, 2018Total
+504,10.0,19.0,7.0,8.0,2.0,6.0,7.0,8.0,15.0,8.0,13.0,8.0,10.0,15.0,10.0,5.0,14.0,22.0,Loddon Mallee,CAMPASPE,187.0,0.0,0.0, 2017Total
+505,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,2.0,2.0,5.0,1.0,1.0,Loddon Mallee,CAMPASPE,14.0,0.0,0.0, 2016YTD
+506,3.0,5.0,0.0,1.0,0.0,1.0,1.0,1.0,4.0,1.0,2.0,1.0,0.0,5.0,2.0,1.0,1.0,0.0,Loddon Mallee,CAMPASPE,29.0,0.0,0.0, 2017YTD
+507,16.0,9.0,3.0,9.0,16.0,9.0,15.0,8.0,7.0,5.0,7.0,13.0,18.0,12.0,14.0,8.0,9.0,14.0,Loddon Mallee,CAMPASPE,192.0,0.0,0.0, 2019YTD
+508,7.0,6.0,2.0,1.0,1.0,0.0,0.0,1.0,1.0,2.0,1.0,1.0,3.0,2.0,6.0,7.0,2.0,2.0,Loddon Mallee,CAMPASPE,45.0,0.0,0.0, 2016Total
+509,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0,0.0,2.0,0.0,0.0,0.0,Loddon Mallee,CAMPASPE,6.0,0.0,0.0, 2018YTD
+510,2.0,1.0,1.0,2.0,1.0,2.0,1.0,3.0,3.0,0.0,6.0,3.0,6.0,0.0,7.0,1.0,3.0,8.0,Loddon Mallee,CAMPASPE,50.0,0.0,0.0, 2018Total
+511,27.0,38.0,29.0,13.0,19.0,19.0,20.0,28.0,31.0,33.0,30.0,31.0,38.0,30.0,36.0,26.0,27.0,42.0,Barwon South WestGrampiansNorthern and Western Metropolitan,BALLARAT,517.0,0.0,0.0, 2017Total
+512,1.0,1.0,0.0,2.0,4.0,0.0,1.0,3.0,2.0,2.0,4.0,2.0,2.0,1.0,1.0,1.0,0.0,5.0,Barwon South WestGrampiansNorthern and Western Metropolitan,BALLARAT,32.0,0.0,0.0, 2016YTD
+513,3.0,4.0,1.0,1.0,6.0,7.0,5.0,3.0,4.0,5.0,4.0,6.0,5.0,2.0,1.0,2.0,4.0,7.0,Barwon South WestGrampiansNorthern and Western Metropolitan,BALLARAT,70.0,0.0,0.0, 2017YTD
+514,35.0,36.0,18.0,20.0,32.0,34.0,25.0,29.0,16.0,18.0,23.0,23.0,30.0,19.0,21.0,21.0,16.0,33.0,Barwon South WestGrampiansNorthern and Western Metropolitan,BALLARAT,449.0,0.0,0.0, 2019YTD
+515,7.0,2.0,2.0,2.0,7.0,1.0,6.0,9.0,5.0,12.0,8.0,11.0,6.0,9.0,5.0,11.0,11.0,14.0,Barwon South WestGrampiansNorthern and Western Metropolitan,BALLARAT,131.0,3.0,0.0, 2016Total
+516,1.0,1.0,0.0,1.0,0.0,3.0,1.0,0.0,2.0,1.0,1.0,2.0,3.0,4.0,2.0,2.0,1.0,3.0,Barwon South WestGrampiansNorthern and Western Metropolitan,BALLARAT,28.0,0.0,0.0, 2018YTD
+517,6.0,2.0,1.0,2.0,2.0,6.0,8.0,2.0,3.0,4.0,5.0,9.0,4.0,5.0,8.0,4.0,5.0,8.0,Barwon South WestGrampiansNorthern and Western Metropolitan,BALLARAT,84.0,0.0,0.0, 2018Total
+518,158.0,224.0,118.0,86.0,73.0,58.0,69.0,102.0,95.0,106.0,87.0,80.0,70.0,71.0,68.0,95.0,81.0,151.0,Eastern MetropolitanGippslandNorthern and Western MetropolitanSouthern Metropolitan,MONASH,1793.0,1.0,0.0, 2017Total
+519,8.0,1.0,3.0,5.0,4.0,4.0,4.0,5.0,5.0,6.0,4.0,4.0,3.0,3.0,2.0,6.0,3.0,4.0,Eastern MetropolitanGippslandNorthern and Western MetropolitanSouthern Metropolitan,MONASH,75.0,1.0,0.0, 2016YTD
+520,30.0,25.0,13.0,9.0,12.0,12.0,14.0,18.0,17.0,15.0,12.0,12.0,19.0,14.0,13.0,20.0,20.0,25.0,Eastern MetropolitanGippslandNorthern and Western MetropolitanSouthern Metropolitan,MONASH,301.0,1.0,0.0, 2017YTD
+521,150.0,195.0,91.0,59.0,65.0,55.0,70.0,76.0,66.0,62.0,42.0,54.0,44.0,41.0,39.0,46.0,45.0,65.0,Eastern MetropolitanGippslandNorthern and Western MetropolitanSouthern Metropolitan,MONASH,1265.0,0.0,0.0, 2019YTD
+522,29.0,22.0,27.0,27.0,26.0,20.0,23.0,23.0,30.0,24.0,21.0,17.0,22.0,19.0,26.0,23.0,28.0,72.0,Eastern MetropolitanGippslandNorthern and Western MetropolitanSouthern Metropolitan,MONASH,481.0,2.0,0.0, 2016Total
+523,15.0,9.0,3.0,4.0,9.0,3.0,8.0,8.0,10.0,9.0,7.0,12.0,7.0,10.0,5.0,6.0,3.0,3.0,Eastern MetropolitanGippslandNorthern and Western MetropolitanSouthern Metropolitan,MONASH,131.0,0.0,0.0, 2018YTD
+524,43.0,28.0,11.0,7.0,22.0,11.0,23.0,24.0,31.0,28.0,18.0,26.0,21.0,21.0,14.0,20.0,10.0,12.0,Eastern MetropolitanGippslandNorthern and Western MetropolitanSouthern Metropolitan,MONASH,370.0,0.0,0.0, 2018Total
+525,14.0,9.0,9.0,15.0,16.0,6.0,6.0,8.0,11.0,9.0,17.0,26.0,16.0,14.0,10.0,9.0,13.0,48.0,Hume,WANGARATTA,256.0,0.0,0.0, 2017Total
+526,1.0,0.0,1.0,0.0,0.0,0.0,1.0,2.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Hume,WANGARATTA,7.0,0.0,0.0, 2016YTD
+527,2.0,0.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,3.0,0.0,0.0,0.0,0.0,1.0,0.0,Hume,WANGARATTA,11.0,0.0,0.0, 2017YTD
+528,13.0,12.0,9.0,8.0,11.0,8.0,18.0,11.0,8.0,11.0,11.0,12.0,15.0,9.0,15.0,7.0,18.0,18.0,Hume,WANGARATTA,214.0,0.0,0.0, 2019YTD
+529,6.0,2.0,1.0,7.0,2.0,0.0,4.0,2.0,1.0,4.0,1.0,5.0,2.0,3.0,3.0,2.0,1.0,1.0,Hume,WANGARATTA,47.0,0.0,0.0, 2016Total
+530,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,2.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,3.0,0.0,Hume,WANGARATTA,9.0,0.0,0.0, 2018YTD
+531,9.0,4.0,2.0,1.0,3.0,2.0,2.0,3.0,2.0,1.0,2.0,6.0,3.0,2.0,2.0,0.0,3.0,1.0,Hume,WANGARATTA,48.0,0.0,0.0, 2018Total
+532,104.0,140.0,61.0,51.0,35.0,36.0,44.0,47.0,51.0,50.0,41.0,35.0,39.0,38.0,30.0,26.0,29.0,34.0,Eastern MetropolitanGippslandGrampiansLoddon MalleeSouthern Metropolitan,CARDINIA,891.0,0.0,0.0, 2017Total
+533,6.0,3.0,1.0,0.0,2.0,4.0,4.0,2.0,1.0,3.0,2.0,3.0,1.0,0.0,1.0,1.0,0.0,0.0,Eastern MetropolitanGippslandGrampiansLoddon MalleeSouthern Metropolitan,CARDINIA,34.0,0.0,0.0, 2016YTD
+534,11.0,11.0,7.0,14.0,5.0,4.0,8.0,6.0,9.0,11.0,3.0,7.0,2.0,7.0,5.0,7.0,8.0,11.0,Eastern MetropolitanGippslandGrampiansLoddon MalleeSouthern Metropolitan,CARDINIA,136.0,0.0,0.0, 2017YTD
+535,147.0,153.0,78.0,52.0,42.0,68.0,81.0,74.0,62.0,44.0,30.0,30.0,28.0,22.0,29.0,20.0,32.0,52.0,Eastern MetropolitanGippslandGrampiansLoddon MalleeSouthern Metropolitan,CARDINIA,1044.0,0.0,0.0, 2019YTD
+536,15.0,12.0,5.0,8.0,14.0,13.0,12.0,9.0,6.0,16.0,11.0,10.0,10.0,14.0,3.0,13.0,11.0,16.0,Eastern MetropolitanGippslandGrampiansLoddon MalleeSouthern Metropolitan,CARDINIA,200.0,2.0,0.0, 2016Total
+537,4.0,3.0,1.0,0.0,0.0,4.0,4.0,2.0,0.0,4.0,2.0,4.0,2.0,4.0,1.0,1.0,0.0,1.0,Eastern MetropolitanGippslandGrampiansLoddon MalleeSouthern Metropolitan,CARDINIA,37.0,0.0,0.0, 2018YTD
+538,28.0,22.0,8.0,4.0,3.0,12.0,16.0,10.0,9.0,9.0,12.0,13.0,11.0,9.0,4.0,10.0,3.0,3.0,Eastern MetropolitanGippslandGrampiansLoddon MalleeSouthern Metropolitan,CARDINIA,186.0,0.0,0.0, 2018Total
+539,55.0,71.0,49.0,40.0,37.0,20.0,24.0,61.0,58.0,50.0,43.0,53.0,57.0,40.0,16.0,13.0,11.0,16.0,Eastern MetropolitanNorthern and Western Metropolitan,NILLUMBIK,714.0,0.0,0.0, 2017Total
+540,7.0,3.0,0.0,2.0,4.0,1.0,1.0,2.0,3.0,1.0,4.0,6.0,5.0,2.0,0.0,0.0,0.0,0.0,Eastern MetropolitanNorthern and Western Metropolitan,NILLUMBIK,41.0,0.0,0.0, 2016YTD
+541,13.0,5.0,6.0,5.0,3.0,3.0,5.0,12.0,4.0,6.0,8.0,10.0,7.0,5.0,6.0,4.0,4.0,5.0,Eastern MetropolitanNorthern and Western Metropolitan,NILLUMBIK,111.0,0.0,0.0, 2017YTD
+542,27.0,44.0,31.0,39.0,27.0,27.0,28.0,28.0,27.0,29.0,38.0,32.0,30.0,22.0,16.0,7.0,9.0,5.0,Eastern MetropolitanNorthern and Western Metropolitan,NILLUMBIK,466.0,0.0,0.0, 2019YTD
+543,15.0,14.0,11.0,13.0,14.0,5.0,7.0,8.0,11.0,9.0,21.0,15.0,12.0,15.0,8.0,1.0,5.0,19.0,Eastern MetropolitanNorthern and Western Metropolitan,NILLUMBIK,204.0,1.0,0.0, 2016Total
+544,0.0,1.0,0.0,1.0,0.0,2.0,0.0,2.0,0.0,5.0,5.0,4.0,5.0,1.0,1.0,1.0,0.0,0.0,Eastern MetropolitanNorthern and Western Metropolitan,NILLUMBIK,28.0,0.0,0.0, 2018YTD
+545,8.0,7.0,8.0,4.0,9.0,6.0,7.0,4.0,5.0,11.0,12.0,12.0,6.0,5.0,2.0,2.0,0.0,1.0,Eastern MetropolitanNorthern and Western Metropolitan,NILLUMBIK,109.0,0.0,0.0, 2018Total
+546,7.0,8.0,4.0,6.0,9.0,2.0,5.0,6.0,10.0,7.0,5.0,6.0,7.0,10.0,6.0,6.0,3.0,19.0,Hume,ALPINE,126.0,0.0,0.0, 2017Total
+547,0.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,1.0,0.0,2.0,0.0,1.0,0.0,1.0,0.0,0.0,Hume,ALPINE,11.0,0.0,0.0, 2016YTD
+548,0.0,0.0,1.0,2.0,3.0,0.0,0.0,1.0,0.0,2.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,Hume,ALPINE,13.0,0.0,0.0, 2017YTD
+549,6.0,4.0,9.0,2.0,6.0,3.0,6.0,4.0,3.0,8.0,3.0,4.0,5.0,5.0,3.0,1.0,2.0,5.0,Hume,ALPINE,79.0,0.0,0.0, 2019YTD
+550,1.0,8.0,7.0,1.0,2.0,4.0,0.0,3.0,7.0,4.0,0.0,6.0,6.0,5.0,3.0,3.0,1.0,0.0,Hume,ALPINE,62.0,1.0,0.0, 2016Total
+551,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,Hume,ALPINE,2.0,0.0,0.0, 2018YTD
+552,1.0,5.0,5.0,2.0,1.0,1.0,2.0,7.0,5.0,4.0,4.0,2.0,5.0,4.0,4.0,1.0,1.0,8.0,Hume,ALPINE,62.0,0.0,0.0, 2018Total
+553,40.0,47.0,34.0,35.0,24.0,20.0,21.0,34.0,29.0,35.0,30.0,36.0,40.0,36.0,33.0,22.0,22.0,26.0,Eastern MetropolitanGippslandGrampiansHumeNorthern and Western MetropolitanSouthern Metropolitan,LATROBE,564.0,0.0,0.0, 2017Total
+554,1.0,1.0,1.0,1.0,2.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,2.0,1.0,2.0,0.0,0.0,1.0,Eastern MetropolitanGippslandGrampiansHumeNorthern and Western MetropolitanSouthern Metropolitan,LATROBE,16.0,0.0,0.0, 2016YTD
+555,5.0,5.0,2.0,4.0,5.0,3.0,6.0,3.0,4.0,4.0,2.0,4.0,7.0,6.0,2.0,2.0,5.0,2.0,Eastern MetropolitanGippslandGrampiansHumeNorthern and Western MetropolitanSouthern Metropolitan,LATROBE,71.0,0.0,0.0, 2017YTD
+556,49.0,55.0,22.0,19.0,39.0,36.0,46.0,17.0,16.0,19.0,29.0,22.0,25.0,23.0,27.0,15.0,9.0,27.0,Eastern MetropolitanGippslandGrampiansHumeNorthern and Western MetropolitanSouthern Metropolitan,LATROBE,495.0,0.0,0.0, 2019YTD
+557,9.0,2.0,6.0,5.0,5.0,7.0,7.0,3.0,4.0,1.0,5.0,7.0,8.0,6.0,7.0,8.0,1.0,3.0,Eastern MetropolitanGippslandGrampiansHumeNorthern and Western MetropolitanSouthern Metropolitan,LATROBE,94.0,0.0,0.0, 2016Total
+558,0.0,1.0,0.0,1.0,0.0,4.0,1.0,2.0,3.0,3.0,1.0,5.0,5.0,2.0,3.0,0.0,3.0,4.0,Eastern MetropolitanGippslandGrampiansHumeNorthern and Western MetropolitanSouthern Metropolitan,LATROBE,38.0,0.0,0.0, 2018YTD
+559,14.0,12.0,1.0,2.0,5.0,10.0,7.0,13.0,12.0,9.0,11.0,9.0,14.0,13.0,8.0,7.0,4.0,10.0,Eastern MetropolitanGippslandGrampiansHumeNorthern and Western MetropolitanSouthern Metropolitan,LATROBE,161.0,0.0,0.0, 2018Total
+560,356.0,396.0,201.0,155.0,122.0,109.0,166.0,175.0,183.0,157.0,146.0,136.0,112.0,87.0,78.0,70.0,76.0,83.0,Eastern MetropolitanGippslandHumeSouthern Metropolitan,CASEY,2808.0,0.0,0.0, 2017Total
+561,14.0,5.0,6.0,4.0,10.0,3.0,11.0,9.0,10.0,12.0,16.0,7.0,12.0,8.0,2.0,3.0,1.0,2.0,Eastern MetropolitanGippslandHumeSouthern Metropolitan,CASEY,135.0,0.0,0.0, 2016YTD
+562,47.0,29.0,17.0,14.0,12.0,14.0,35.0,35.0,25.0,18.0,22.0,18.0,17.0,20.0,14.0,20.0,13.0,13.0,Eastern MetropolitanGippslandHumeSouthern Metropolitan,CASEY,383.0,0.0,0.0, 2017YTD
+563,411.0,435.0,188.0,161.0,181.0,166.0,223.0,227.0,132.0,125.0,105.0,112.0,83.0,72.0,58.0,53.0,40.0,57.0,Eastern MetropolitanGippslandHumeSouthern Metropolitan,CASEY,2829.0,0.0,0.0, 2019YTD
+564,60.0,36.0,34.0,47.0,40.0,51.0,42.0,62.0,59.0,42.0,56.0,46.0,33.0,42.0,28.0,29.0,34.0,71.0,Eastern MetropolitanGippslandHumeSouthern Metropolitan,CASEY,812.0,0.0,0.0, 2016Total
+565,27.0,12.0,8.0,4.0,3.0,5.0,8.0,13.0,11.0,9.0,10.0,12.0,12.0,10.0,3.0,7.0,5.0,4.0,Eastern MetropolitanGippslandHumeSouthern Metropolitan,CASEY,163.0,0.0,0.0, 2018YTD
+566,105.0,74.0,26.0,16.0,22.0,32.0,50.0,62.0,35.0,46.0,37.0,33.0,33.0,29.0,27.0,14.0,13.0,11.0,Eastern MetropolitanGippslandHumeSouthern Metropolitan,CASEY,665.0,0.0,0.0, 2018Total
+567,11.0,15.0,7.0,7.0,7.0,11.0,6.0,8.0,6.0,13.0,12.0,5.0,11.0,10.0,11.0,9.0,12.0,15.0,HumeSouthern Metropolitan,MOIRA,176.0,0.0,0.0, 2017Total
+568,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,HumeSouthern Metropolitan,MOIRA,6.0,0.0,0.0, 2016YTD
+569,3.0,0.0,0.0,2.0,0.0,1.0,0.0,0.0,1.0,1.0,4.0,0.0,3.0,1.0,0.0,0.0,1.0,0.0,HumeSouthern Metropolitan,MOIRA,17.0,0.0,0.0, 2017YTD
+570,30.0,11.0,8.0,7.0,11.0,10.0,9.0,12.0,5.0,14.0,8.0,12.0,14.0,8.0,18.0,13.0,8.0,18.0,HumeSouthern Metropolitan,MOIRA,216.0,0.0,0.0, 2019YTD
+571,0.0,1.0,0.0,5.0,2.0,1.0,0.0,1.0,1.0,2.0,2.0,3.0,1.0,0.0,1.0,2.0,0.0,1.0,HumeSouthern Metropolitan,MOIRA,23.0,0.0,0.0, 2016Total
+572,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,HumeSouthern Metropolitan,MOIRA,5.0,0.0,0.0, 2018YTD
+573,5.0,1.0,2.0,1.0,3.0,1.0,2.0,0.0,1.0,0.0,1.0,2.0,1.0,0.0,1.0,1.0,0.0,1.0,HumeSouthern Metropolitan,MOIRA,23.0,0.0,0.0, 2018Total
+574,142.0,174.0,111.0,106.0,62.0,54.0,87.0,106.0,105.0,85.0,92.0,89.0,83.0,64.0,52.0,43.0,64.0,107.0,Eastern MetropolitanGippslandNorthern and Western MetropolitanSouthern Metropolitan,GLEN EIRA,1626.0,0.0,0.0, 2017Total
+575,13.0,5.0,2.0,1.0,5.0,5.0,8.0,6.0,6.0,11.0,4.0,2.0,2.0,2.0,0.0,3.0,5.0,4.0,Eastern MetropolitanGippslandNorthern and Western MetropolitanSouthern Metropolitan,GLEN EIRA,84.0,0.0,0.0, 2016YTD
+576,33.0,24.0,14.0,14.0,10.0,9.0,17.0,29.0,14.0,15.0,17.0,17.0,17.0,15.0,9.0,9.0,13.0,11.0,Eastern MetropolitanGippslandNorthern and Western MetropolitanSouthern Metropolitan,GLEN EIRA,287.0,0.0,0.0, 2017YTD
+577,114.0,130.0,83.0,71.0,49.0,75.0,99.0,91.0,63.0,51.0,59.0,52.0,42.0,29.0,27.0,18.0,22.0,39.0,Eastern MetropolitanGippslandNorthern and Western MetropolitanSouthern Metropolitan,GLEN EIRA,1114.0,0.0,0.0, 2019YTD
+578,42.0,27.0,29.0,21.0,17.0,20.0,26.0,18.0,24.0,28.0,14.0,24.0,19.0,18.0,10.0,15.0,22.0,53.0,Eastern MetropolitanGippslandNorthern and Western MetropolitanSouthern Metropolitan,GLEN EIRA,427.0,0.0,0.0, 2016Total
+579,6.0,5.0,5.0,4.0,4.0,5.0,3.0,10.0,4.0,8.0,5.0,9.0,4.0,6.0,3.0,3.0,3.0,1.0,Eastern MetropolitanGippslandNorthern and Western MetropolitanSouthern Metropolitan,GLEN EIRA,88.0,0.0,0.0, 2018YTD
+580,25.0,25.0,19.0,12.0,17.0,23.0,20.0,23.0,17.0,29.0,13.0,16.0,18.0,11.0,7.0,6.0,12.0,14.0,Eastern MetropolitanGippslandNorthern and Western MetropolitanSouthern Metropolitan,GLEN EIRA,307.0,0.0,0.0, 2018Total
+581,13.0,37.0,31.0,25.0,10.0,10.0,16.0,24.0,19.0,21.0,20.0,12.0,18.0,23.0,13.0,9.0,11.0,11.0,GippslandLoddon MalleeNorthern and Western Metropolitan,SOUTH GIPPSLAND,323.0,0.0,0.0, 2017Total
+582,1.0,0.0,0.0,1.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,GippslandLoddon MalleeNorthern and Western Metropolitan,SOUTH GIPPSLAND,8.0,0.0,0.0, 2016YTD
+583,0.0,3.0,4.0,3.0,2.0,4.0,2.0,3.0,4.0,3.0,3.0,1.0,3.0,2.0,1.0,1.0,5.0,5.0,GippslandLoddon MalleeNorthern and Western Metropolitan,SOUTH GIPPSLAND,49.0,0.0,0.0, 2017YTD
+584,18.0,25.0,8.0,7.0,5.0,5.0,8.0,14.0,11.0,10.0,11.0,17.0,9.0,6.0,3.0,6.0,5.0,9.0,GippslandLoddon MalleeNorthern and Western Metropolitan,SOUTH GIPPSLAND,177.0,0.0,0.0, 2019YTD
+585,4.0,0.0,1.0,3.0,4.0,4.0,0.0,4.0,0.0,5.0,0.0,4.0,4.0,5.0,5.0,1.0,3.0,7.0,GippslandLoddon MalleeNorthern and Western Metropolitan,SOUTH GIPPSLAND,54.0,0.0,0.0, 2016Total
+586,2.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,0.0,1.0,0.0,1.0,3.0,0.0,0.0,0.0,0.0,GippslandLoddon MalleeNorthern and Western Metropolitan,SOUTH GIPPSLAND,10.0,0.0,0.0, 2018YTD
+587,9.0,13.0,7.0,0.0,1.0,2.0,2.0,4.0,8.0,6.0,5.0,5.0,7.0,5.0,4.0,0.0,0.0,0.0,GippslandLoddon MalleeNorthern and Western Metropolitan,SOUTH GIPPSLAND,78.0,0.0,0.0, 2018Total
